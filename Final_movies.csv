@@ -1,0 +1,2429 @@
+Title,Rating,Votes,Duration,Genre
+Mahavatar Narsimha,9.2,31000,2.166666667,Action
+Freaky Tales,6.3,11000,1.783333333,Action
+Gladiator II,6.5,269000,2.466666667,Action
+William Tell,5.7,4600,2.233333333,Action
+Dune: Part Two,8.5,658000,2.766666667,Action
+The Ministry of Ungentlemanly Warfare,6.8,143000,2.033333333,Action
+Kingdom of the Planet of the Apes,6.8,159000,2.416666667,Action
+Deadpool & Wolverine,7.5,521000,2.133333333,Action
+Furiosa: A Mad Max Saga,7.5,298000,2.466666667,Action
+Twisters,6.5,182000,2.033333333,Action
+Relay,7.2,605,1.866666667,Action
+Carry-On,6.5,177000,1.983333333,Action
+Kraven the Hunter,5.5,70000,2.116666667,Action
+River of Blood,4.8,2400,1.433333333,Action
+Civil War,7,249000,1.816666667,Action
+Rebel Ridge,6.8,94000,2.183333333,Action
+The Beekeeper,6.3,166000,1.75,Action
+The Fall Guy,6.8,233000,2.1,Action
+Sonic the Hedgehog 3,6.9,70000,1.833333333,Action
+The Count of Monte-Cristo,7.6,40000,2.966666667,Action
+Venom: The Last Dance,6,137000,1.833333333,Action
+Monkey Man,6.8,95000,2.016666667,Action
+Road House,6.2,173000,2.016666667,Action
+40 Acres,6.5,3200,1.883333333,Action
+Abigail,6.5,103000,1.816666667,Action
+Fight or Flight,6.4,18000,1.7,Action
+The Unholy Trinity,5.5,3000,1.583333333,Action
+Drive-Away Dolls,5.4,25000,1.4,Action
+Madame Web,4.1,106000,1.933333333,Action
+Land of Bad,6.6,54000,1.883333333,Action
+Bad Boys: Ride or Die,6.5,105000,1.916666667,Action
+Godzilla x Kong: The New Empire,6,127000,1.916666667,Action
+Transformers One,7.6,57000,1.733333333,Action
+Red One,6.3,145000,2.05,Action
+Borderlands,4.7,52000,1.683333333,Action
+Maharaja,8.4,73000,2.35,Action
+The Prosecutor,6.5,3100,1.95,Action
+Argylle,5.6,95000,2.316666667,Action
+The Union,5.4,55000,1.783333333,Action
+Elevation,5.6,26000,1.516666667,Action
+The Crow,4.7,38000,1.85,Action
+The Lord of the Rings: The War of the Rohirrim,6.3,35000,2.233333333,Action
+Dirty Angels,4.5,4800,1.733333333,Action
+Damsel,6.1,113000,1.833333333,Action
+Beverly Hills Cop: Axel F,6.4,84000,1.966666667,Action
+Kung Fu Panda 4,6.3,73000,1.566666667,Action
+Old Guy,5.2,3900,1.566666667,Action
+Vettaiyan,6.9,40000,2.716666667,Action
+Hellboy: The Crooked Man,4.5,15000,1.65,Action
+The Instigators,6.2,40000,1.683333333,Action
+The Killer,5.7,15000,2.1,Action
+Weekend in Taipei,5.7,5800,1.666666667,Action
+Attack on Titan the Movie: The Last Attack,9.2,19000,2.416666667,Action
+Kalki 2898 AD,7,70000,3,Action
+Weapon,5.6,6500,2,Action
+Jackpot!,5.8,32000,1.766666667,Action
+Long Gone Heroes,5.1,1500,1.683333333,Action
+Homestead,5.2,4500,1.866666667,Action
+Megamind vs. The Doom Syndicate,2.5,5900,1.383333333,Action
+Pushpa: The Rule - Part 2,6.1,60000,3.35,Action
+Uglies,4.7,35000,1.666666667,Action
+Azrael,5.3,13000,1.433333333,Action
+Boneyard,4.1,5400,1.6,Action
+Apocalypse Z: The Beginning of the End,6.1,22000,1.95,Action
+Blitz,6.2,17000,2,Action
+The Killer's Game,5.8,19000,1.733333333,Action
+Brothers,5.4,14000,1.483333333,Action
+Thelma,7,25000,1.633333333,Action
+Viduthalai Part 2,7.7,17000,2.833333333,Action
+Cloud,6.4,2300,2.066666667,Action
+Watchmen: Chapter I,7.1,7400,1.383333333,Action
+Atlas,5.6,57000,1.966666667,Action
+Martin,2.2,36000,2.45,Action
+Role Play,5.5,20000,1.666666667,Action
+Arcadian,5.5,25000,1.533333333,Action
+Auron Mein Kahan Dum Tha,6.3,41000,2.5,Action
+Canary Black,5.4,13000,1.683333333,Action
+Absolution,5.2,9600,1.866666667,Action
+Solo Leveling: ReAwakening,8.8,15000,2.016666667,Action
+Survive,4.6,3700,1.5,Action
+Fighter,6.2,53000,2.766666667,Action
+Lift,5.5,51000,1.783333333,Action
+Descendants: The Rise of Red,4.7,7600,1.516666667,Action
+The Shadow Strays,6.5,10000,2.4,Action
+Rebel Moon - Part Two: The Scargiver,5.3,61000,2.033333333,Action
+Demon Slayer: Kimetsu No Yaiba - To the Hashira Training,7.2,9200,1.733333333,Action
+Amaran,8.1,21000,2.783333333,Action
+Werewolves,4.4,8000,1.55,Action
+Take Cover,5.1,3200,1.5,Action
+Alien: Rubicon,2.4,641,1.433333333,Action
+Under Paris,5.2,38000,1.733333333,Action
+Ghost Killer,6.3,484,1.75,Action
+The Fix,4.7,1700,1.633333333,Action
+Armor,3.6,4900,1.483333333,Action
+The Silent Hour,6.1,8800,1.65,Action
+I Am What I Am 2,7.6,500,2.233333333,Action
+Marco,6.7,24000,2.416666667,Action
+Operation: Raqqa,5.6,339,1.783333333,Action
+Aftermath,5.2,4600,1.616666667,Action
+Striking Rescue,5.6,813,1.85,Action
+Watchmen: Chapter II,7.1,3800,1.5,Action
+Trigger Warning,4.6,20000,1.766666667,Action
+Twilight of the Warriors: Walled In,6.9,11000,2.1,Action
+Uprising,6.6,6200,2.1,Action
+Aavesham,7.8,30000,2.583333333,Action
+No Way Up,4.6,11000,1.5,Action
+Elyas,6.1,1700,1.75,Action
+The Traveller,5.2,243,2.233333333,Action
+The Family Star,5.4,5700,2.65,Action
+Chief of Station,4.7,5000,1.616666667,Action
+Hotspring Sharkattack,6.3,106,1.166666667,Action
+Baby John,5,18000,2.65,Action
+Khadaan,7.1,2300,2.283333333,Action
+Justice League: Crisis on Infinite Earths - Part One,6.2,9100,1.55,Action
+Damaged,4.7,7900,1.616666667,Action
+Code 8: Part II,5.7,16000,1.666666667,Action
+Dan Da Dan: First Encounter,8.2,3200,1.383333333,Action
+The Roundup: Punishment,6.6,5900,1.816666667,Action
+Cells at Work!,6.7,1100,1.816666667,Action
+Revolver,5.5,1000,1.9,Action
+Red Right Hand,5.5,6200,1.85,Action
+Karma,7.9,1500,2.783333333,Action
+Murder Company,3.6,1700,1.433333333,Action
+My Spy: The Eternal City,5.7,11000,1.866666667,Action
+Life After Fighting,6.4,2300,2.1,Action
+Classified,3.7,3000,1.75,Action
+One More Shot,5.4,3900,1.716666667,Action
+Cash Out,4.8,3300,1.533333333,Action
+Yolo,6.9,4000,2.15,Action
+Blood Star,6.3,6300,1.616666667,Action
+Gunner,3.2,3100,1.766666667,Action
+Ultraman: Rising,6.9,6900,1.95,Action
+Chandu Champion,7.8,35000,2.366666667,Action
+Officer Black Belt,6.9,9100,1.8,Action
+Devara Part 1,6,22000,2.933333333,Action
+Singham Again,4.3,75000,2.4,Action
+Pins & Needles,5.9,69,1.583333333,Action
+The Greatest of All Time,5.7,24000,3.05,Action
+Paradox Effect,6,11000,1.45,Action
+Night Call,6.7,2800,1.616666667,Action
+Pani,6.9,3500,2.383333333,Action
+Saripodhaa Sanivaaram,7,11000,2.766666667,Action
+Guntur Kaaram,5.4,25000,2.65,Action
+Badland Hunters,5.9,13000,1.783333333,Action
+Harbin,6.2,1100,1.8,Action
+Justice League: Crisis on Infinite Earths - Part Three,6.1,5100,1.566666667,Action
+The Quiet Ones,6.1,1300,1.833333333,Action
+Raayan,6.5,12000,2.416666667,Action
+Despatch,4.4,4800,2.55,Action
+Handsome Guys,6.4,1300,1.683333333,Action
+Bougainvillea,6.4,3500,2.3,Action
+11 Rebels,6.2,882,2.583333333,Action
+A.R.M,7.1,9300,2.5,Action
+12 Gaun,6.5,975,2.45,Action
+UI,6.8,5800,2.25,Action
+Roadkill,3.7,711,1.5,Action
+Die Hart 2: Die Harter,4.3,5700,1.533333333,Action
+"I, the Executioner",6.3,2200,1.966666667,Action
+Escape,6.4,2300,1.566666667,Action
+Overlord: The Sacred Kingdom,6.9,1600,2.25,Action
+Levels,5,1700,1.55,Action
+Yodha,5.7,9000,2.166666667,Action
+Baby Assassins: Nice Days,7.1,463,1.716666667,Action
+Hanu Man,7.7,30000,2.633333333,Action
+Mafia Wars,3.6,309,1.633333333,Action
+Escape from the 21st Century,6.4,1100,1.633333333,Action
+Rifle Club,7,4700,1.883333333,Action
+One Fast Move,5,2300,1.8,Action
+The Courier,6,4700,1.683333333,Action
+Tillu Square,6.6,3500,2.283333333,Action
+Lights Out,4.9,1900,1.5,Action
+Drive Back,4.5,768,1.566666667,Action
+Death Whisperer 2,6.3,1600,1.833333333,Action
+Zero,5.8,91,1.466666667,Action
+In the Fire of War,6.7,296,1.916666667,Action
+"Love, Courage and the Battle of Bushy Run",5,201,1.883333333,Action
+Hitpig,5.2,1100,1.433333333,Action
+The Friendly,8.8,42,1.683333333,Action
+Air Force One Down,4.4,3000,1.4,Action
+My Hero Academia: You're Next,6.9,2800,1.833333333,Action
+The Wages of Fear,4.6,4300,1.733333333,Action
+Bangkok Dog,4.6,276,1.483333333,Action
+Jigra,6,24000,2.55,Action
+A Legend,4.7,1100,2.15,Action
+Bagheera,6.7,8100,2.633333333,Action
+Hijack 1971,6.8,3600,1.666666667,Action
+Dominique,5.3,2500,1.666666667,Action
+Dark Match,5.4,1200,1.566666667,Action
+Baby Invasion,4.6,645,1.333333333,Action
+Savi,5.9,36000,2.1,Action
+Kingdom 4: Return of the Great General,7.2,1500,2.416666667,Action
+Justice League: Crisis on Infinite Earths - Part Two,5.6,5900,1.566666667,Action
+Codename: Devil,6.6,1300,1.733333333,Action
+The Price of Money: A Largo Winch Adventure,5.1,1400,1.666666667,Action
+Article 370,7.8,25000,2.633333333,Action
+Golden Kamuy,6.3,2700,2.116666667,Action
+Prey,3.7,3700,1.433333333,Action
+Fight Another Day,4.5,399,1.616666667,Action
+Zebra,7.1,3400,2.733333333,Action
+Trouble,6.2,7300,1.633333333,Action
+Wynonna Earp: Vengeance,5.6,1700,1.6,Action
+Big City Greens the Movie: Spacecation,6.2,623,1.383333333,Action
+Panda Plan,5.1,1700,1.65,Action
+Troubleshooters,6.4,436,1.833333333,Action
+Bachhala Malli,8.2,4000,2.333333333,Action
+Anaconda,4.9,699,1.4,Action
+Alienoid: The Return to the Future,6.5,2900,2.033333333,Action
+Latency,4.2,3000,1.566666667,Action
+Garudan,7.1,3500,2.216666667,Action
+Siren,6.4,3000,2.566666667,Action
+Fluxx,5.6,137,1.666666667,Action
+The Hangman,3.3,1100,1.533333333,Action
+Outlaw,5.2,1000,1.366666667,Action
+The Twisters,2.6,482,1.433333333,Action
+Harom Hara,6.6,3100,2.566666667,Action
+City Hunter,6.3,5800,1.7,Action
+Hit List,5.6,351,2.083333333,Action
+Duchess,4.6,1700,1.9,Action
+September Babies,5,333,1.566666667,Action
+Bureau 749,3.9,595,2.05,Action
+Cesium Fallout,6.3,964,2.25,Action
+Alangu,7.9,1500,2.183333333,Action
+Agni,7.2,15000,2.033333333,Action
+24 Hours to D-Day,2.8,140,1.383333333,Action
+Invasion,4.8,775,1.516666667,Action
+Sunray: Fallen Soldier,4.4,758,1.916666667,Action
+The Kingdom,7,160,2.216666667,Action
+Kahar: Kapla High Council,7.1,545,1.7,Action
+Hellhound,4.3,539,1.716666667,Action
+Crakk: Jeetega... Toh Jiyegaa,4.7,6500,2.566666667,Action
+Tariq,6.2,18,2.033333333,Action
+Por,5.1,634,2.566666667,Action
+Sikandar Ka Muqaddar,6,25000,2.366666667,Action
+High Forces,5.8,621,1.983333333,Action
+Rode College,6.5,441,2.8,Action
+Bidurbhai,9.2,429,2.466666667,Action
+Citizen of a Kind,6.6,976,1.9,Action
+Terminator: Skynet Rising,6.6,304,1.466666667,Action
+Devil's Knight,5.2,996,1.5,Action
+Nintama Rantaro Dokutake Ninja-tai Saikyou no Gunshi,7,56,1.5,Action
+American Warrior,8.6,31,1.55,Action
+Bade Miyan Chote Miyan,3.8,40000,2.716666667,Action
+My Fathers' Daughter,6.4,89,1.3,Action
+Malaikottai Vaaliban,6,4200,2.6,Action
+Blade of Fury,6.2,157,1.5,Action
+Angels Fallen: Warriors of Peace,4.8,6500,1.716666667,Action
+Utopia,3.7,504,1.516666667,Action
+Kanguva,4.5,15000,2.533333333,Action
+Six jours,5.7,303,1.583333333,Action
+Vedaa,6,4600,2.416666667,Action
+Pusaka,5.2,210,1.5,Action
+Crisis Negotiators,6.7,774,2,Action
+Neo-Dome,5.7,25,0.25,Action
+Usha Parinayam,9,2100,2.4,Action
+Where Is Gilgamesh?,8.9,640,1.5,Action
+The Slave and the Sorcerer,6.5,49,1.433333333,Action
+Darkness of Man,4.7,3300,1.816666667,Action
+The Clean Up Crew,4.2,1300,1.583333333,Action
+Villain - Life of a Gangster,8.7,170,2.35,Action
+Thangalaan,6.5,6900,2.6,Action
+Ayalaan,5.9,4100,2.583333333,Action
+Hounds of War,4.5,2100,1.583333333,Action
+Bheema,5.7,988,2.466666667,Action
+The Thundermans Return,5,1900,1.166666667,Action
+Joe Baby,4.4,121,1.433333333,Action
+Sheriff,6.9,1200,2.216666667,Action
+Kill Em All 2,4.1,1500,1.466666667,Action
+72 Hours,4.1,349,1.45,Action
+Matka,4.7,615,2.6,Action
+Toofan,7.3,8900,2.416666667,Action
+Yudhra,4.9,14000,2.366666667,Action
+The Tiger's Apprentice,5.8,2300,1.4,Action
+Hagen,6,1500,2.316666667,Action
+Vanvaas,6.6,1500,2.666666667,Action
+Hunting with Tigers,5.6,579,1.816666667,Action
+Lal Salaam,4.5,1500,2.5,Action
+S.T.A.L.K.E.R.: Shadow of the Zone,4.8,682,1.183333333,Action
+Ryan's World the Movie: Titan Universe Adventure,1.8,760,1.333333333,Action
+Freedom,5.9,1500,1.833333333,Action
+Max,7.1,3600,2.2,Action
+Peter Five Eight,3.5,1100,1.666666667,Action
+Agent Recon,2.4,781,1.416666667,Action
+Gandhi 3,5.7,254,2.383333333,Action
+Uninvited,5.6,372,1.55,Action
+200% Wolf,5.9,1400,1.633333333,Action
+Mission: Cross,6.1,2800,1.75,Action
+How to Rob a Bank,6.6,4400,1.466666667,Action
+Captain Miller,7.2,14000,2.616666667,Action
+Je Jatt Vigarh Gya,5.7,837,2.2,Action
+Operation Valentine,5.3,1800,2.216666667,Action
+Crack: Back in Da Hood,6.9,27,1.366666667,Action
+The Lockdown,4.3,635,1.95,Action
+Razakar: The Silent Genocide of Hyderabad,7.3,5400,2.766666667,Action
+Shark Warning,3.5,423,1.566666667,Action
+Operation Blood Hunt,3.4,543,1.55,Action
+Eagle,5.9,5000,2.65,Action
+Skiptrace,5.6,5,1.333333333,Action
+Heart of the Hunter,4.7,2200,1.75,Action
+Sixty Minutes,5.7,5400,1.466666667,Action
+KA,7,1700,2.516666667,Action
+Get Fast,3.7,531,1.466666667,Action
+The Last Front,5.5,667,1.633333333,Action
+The Plot,4.8,446,1.666666667,Action
+The Last Kumite,4.6,2400,1.75,Action
+Wanted Man,4.8,2700,1.416666667,Action
+Rebirth Island,7.7,57,1.716666667,Action
+Witch Hunter,4,49,1.333333333,Action
+Don't Mess with Grandma,5.5,315,1.35,Action
+Bhaje Vaayu Vegam,6.1,779,2.266666667,Action
+Conquer: Lahad Datu,6.6,575,2,Action
+(Pri)sons,4.9,314,1.666666667,Action
+Sorgavaasal,6.6,1500,2.3,Action
+The Ballad of Davy Crockett,4.6,276,1.6,Action
+Rogue Elements: A Ryan Drake Story,4.1,1100,0.733333333,Action
+Double Ismart,2.9,2200,2.6,Action
+Operation Undead,4.7,485,1.833333333,Action
+Mr. Bachchan,3.6,5300,2.5,Action
+Baki Hanma VS Kengan Ashura,5.7,2100,1.033333333,Action
+Ferry 2,5.6,4000,1.566666667,Action
+GTMax,5,1300,1.666666667,Action
+Sasan,8.8,100,2.583333333,Action
+War of the Worlds: Extinction,3.1,232,1.4,Action
+Ruslaan,3.3,1300,2,Action
+Sous écrous,4.8,149,1.85,Action
+Arena Wars,5.5,3300,1.6,Action
+Mura,7.2,6800,2.15,Action
+Shoutai,6.8,772,2,Action
+All the Lost Ones,3.6,282,1.766666667,Action
+Snow White and the Seven Samurai,3.2,325,1.466666667,Action
+Black Heat,8,150,1.55,Action
+No Time to Spy: A Loud House Movie,6.4,527,1.35,Action
+Bhaiyya Ji,4.8,7400,2.5,Action
+Bhimaa,5.1,1200,2.35,Action
+Rathnam,5.4,3700,2.583333333,Action
+Nice Girls,4.2,1200,1.533333333,Action
+Exorcism Chronicles: The Beginning,6.4,147,1.416666667,Action
+Son's Will,7.4,1100,2.466666667,Action
+Yuva,5.7,864,2.55,Action
+Purushothamudu,5.7,3400,2,Action
+Spiders on a Plane,3.9,497,1.3,Action
+Ghosts of Red Ridge,3.2,188,1.35,Action
+Bohurupi,7.8,1800,2.583333333,Action
+Dharmarakshak Mahaveer Chhatrapati Sambhaji Maharaj,8.3,684,2.9,Action
+Mummy Shark,1.9,231,1.1,Action
+Bionic,4.3,1800,1.833333333,Action
+Bull Shark 2,2.6,251,1.25,Action
+Sucha Soorma,6.4,964,2.266666667,Action
+Alien Country,4.5,436,1.6,Action
+DNA,5.4,230,2.6,Action
+Gladiators,3.3,137,1.583333333,Action
+Stuntman,7,250,1.9,Action
+Mobile Suit Gundam SEED Freedom,6.6,1000,2.066666667,Action
+Kondal,5.3,812,2.45,Action
+They Call Her Death,5.4,229,1.533333333,Action
+Bastar: The Naxal Story,6.4,3300,2.066666667,Action
+Cassino in Ischia,4.4,288,1.883333333,Action
+Devaki Nandana Vasudeva,6.5,2800,2.133333333,Action
+12 to Midnight,3.7,309,1.6,Action
+Thundu,5,935,2.083333333,Action
+School of Magical Animals 3,5.7,384,1.75,Action
+Sayen: The Huntress,4.4,267,1.466666667,Action
+Echo 8,5.9,1400,1.583333333,Action
+Naa Saami Ranga,4.5,1200,2.5,Action
+Continental Split,3.6,587,1.466666667,Action
+Speed 220,7.3,1700,1.9,Action
+Warning 2,7.1,909,2.083333333,Action
+6 Hours Away,3.9,269,1.55,Action
+Road Wars: Max Fury,2,372,1.383333333,Action
+The Last Ronin,4.9,609,1.916666667,Action
+Turbo,5.9,4100,2.583333333,Action
+Non Negotiable,5.4,1300,1.45,Action
+Rats!,6.4,252,1.416666667,Action
+Mechanic Rocky,6.3,3500,2.6,Action
+Snatched,5.9,540,1.683333333,Action
+Mathu Vadalara 2,7,1800,2.316666667,Action
+The Last Stand of Ellen Cole,6.6,118,1.616666667,Action
+Surrender,7.8,15,2.483333333,Action
+The Firefighters,5.7,275,1.766666667,Action
+Sons of Rizk 3,6.6,1800,2.083333333,Action
+The Experts,6.2,317,2.016666667,Action
+Bloody Beggar,6.2,4800,2.233333333,Action
+Clone Cops,5.3,359,1.6,Action
+Barroz: Guardian of Treasures,3.4,1100,2.583333333,Action
+Ajay Gadu,7.2,2100,1.8,Action
+The Grey Men,6.5,81,1.616666667,Action
+Pottel,8,2800,2.466666667,Action
+WWII: Operation Phoenix,4,110,1.766666667,Action
+Hitler,5.2,322,2.133333333,Action
+Taklee Genesis x Worlds Collide,5.4,444,2.433333333,Action
+Top Floor,5.5,81,1.233333333,Action
+Rajakili,4.9,630,2.033333333,Action
+Dirty Money,5.6,232,1.666666667,Action
+Viswam,4.2,658,2.583333333,Action
+Bangkok Breaking: Heaven and Hell,5.8,707,2.433333333,Action
+The Actor,3.4,739,2.133333333,Action
+Anchakkallakokkan,6.6,1000,2.1,Action
+The Wolf,3.5,43,1.45,Action
+Saindhav,5,1700,2.3,Action
+Ship of the Damned,2.8,313,1.466666667,Action
+Eye for an Eye 2,6.6,587,1.5,Action
+My Redneck Neighbor: Chapter 2 - Let the Games Begin,5.7,11,0.916666667,Action
+Gangs of Godavari,4.9,925,2.75,Action
+Midas,4.6,357,1.416666667,Action
+The Wild Blade of Strangers,6.2,125,1.7,Action
+Everybody Loves Jenifa,7.4,107,2.25,Action
+Lorry Chapter-1,7,3500,3.05,Action
+Pimpinero: Blood and Oil,5.6,596,2.016666667,Action
+Big Rage,3.5,181,1.916666667,Action
+Hunt the Wicked,5.4,204,1.7,Action
+Saint Young Men: Holy Men vs Demon Army,3.4,23,1.55,Action
+Game On,5,2300,2.333333333,Action
+Go for Broke,5.7,299,1.916666667,Action
+Inanimate Insanity II: The Movie,8.3,269,1.766666667,Action
+Genis Aile 4: Cevahir & Ulvi,4.6,300,1.5,Action
+Chhota Bheem and the Curse of Damyaan,4.8,2300,2.416666667,Action
+Lady Scorpions,3.6,382,1.683333333,Action
+Love You to Debt,6.3,788,2.25,Action
+Mahadev Ka Gorakhpur,7.2,413,2.183333333,Action
+Tòkunbò,3.9,308,1.883333333,Action
+The Captives,3.6,76,1.216666667,Action
+The Lost Tiger,7.3,65,1.5,Action
+The Bodyguard,6.6,44,1.45,Action
+Second Life,6.8,70,1.75,Action
+Rendel: Cycle of Revenge,3.6,271,1.65,Action
+Taken from Rio Bravo,3,341,1.333333333,Action
+First Nights at Freddy's,8.9,21,1.633333333,Action
+The Burden of Nine Lives,5.2,120,1.933333333,Action
+Sikaar,8.2,694,2.5,Action
+Agents,3.3,957,1.366666667,Action
+Prepare to Die,4.5,250,1.55,Action
+Aserb: The Squadron,5.2,350,2,Action
+Sector 17,5.4,1300,2.433333333,Action
+Mirza: Part 1 - Joker,6.9,244,2.75,Action
+Mongol,7.3,119,2.583333333,Action
+Customs Frontline,5.5,558,1.916666667,Action
+Malayalee from India,5.6,5100,2.666666667,Action
+Deaner '89,5.9,479,1.5,Action
+Mission: Chapter 1,5.9,1700,2.4,Action
+Drive,5.6,385,1.5,Action
+Gatao: Like Father Like Son,5.7,277,2.183333333,Action
+Kill Craft,2.5,385,1.65,Action
+The Charisma Killers,6.2,799,1.683333333,Action
+Andromeda: 1883,3.9,20,1.25,Action
+Next to Us,4.9,231,2.083333333,Action
+Kali,5.2,431,1.6,Action
+Rang De Basanti,8.3,186,2.9,Action
+Ballistic,2.3,170,1.583333333,Action
+Ugravatara,8.2,1500,2.033333333,Action
+The Infallibles,4.8,806,1.65,Action
+Kung Fu Games,3.3,397,1.633333333,Action
+Texas Twister,2.5,167,1.466666667,Action
+Athhoi,7.2,261,2.633333333,Action
+Shu Si Yi Bo,6.7,51,1.516666667,Action
+Paradise,6.9,83,1.383333333,Action
+Mazhai Pidikatha Manithan,4.5,432,2.216666667,Action
+Art of Eight Limbs,3.9,335,1.683333333,Action
+Lisabi: The Uprising,5.1,145,1.783333333,Action
+The Day Everything Changed,8.1,80,1.616666667,Action
+Guy Manley: Super Spy,4.1,175,1.533333333,Action
+Babu,7.1,190,2.366666667,Action
+Aho Vikramaarka,6.9,76,2.266666667,Action
+I Heart Robots,4.5,2400,1.266666667,Action
+Checkmate,4.3,404,1.733333333,Action
+Shark Island,3,145,1.35,Action
+Day Labor,6.2,102,1.466666667,Action
+Major Grom: The Game,6.2,1900,2.8,Action
+Rebel,3.3,68,1.666666667,Action
+Ape X Mecha Ape: New World Order,2.8,156,1.45,Action
+Alpha.,6.8,299,1.666666667,Action
+The Waves of Madness,5.2,130,1.133333333,Action
+Identity,8.2,5,1.4,Action
+The Heist,6.8,2000,2,Action
+Too Little Too Late,5.4,8,1.1,Action
+Kizumonogatari: Koyomi Vamp,7.1,123,2.4,Action
+Nothing Even Matters,5.8,85,1.5,Action
+Virunnu,4.1,960,2.083333333,Action
+Fighting the Fire,8.2,1700,1.916666667,Action
+Nu Huo 12 Xiao Shi,6.1,61,1.433333333,Action
+Formed Police Unit,4.7,1500,2,Action
+Honeko Akabane's Bodyguards,6,63,1.95,Action
+Lie Zhan,6.5,88,1.55,Action
+The Unbreakable Bunch,7.1,40,1.416666667,Action
+Camp Blood: Clown Shark,3.4,102,1.166666667,Action
+UmroAyyar - A New Beginning,7,685,2.25,Action
+Mani nude,6.6,62,1.4,Action
+Vixen,5.2,350,1.45,Action
+Chaari 111,4.8,273,2.166666667,Action
+Fight for Tomorrow,6.6,56,1.683333333,Action
+Red vs. Blue: Restoration,5.6,149,1.416666667,Action
+The Bouncer,4.1,108,1.3,Action
+Anunnakiler,2.5,483,1.266666667,Action
+Dange,5.3,816,2.566666667,Action
+The Omicron Killer,2.9,602,1.633333333,Action
+Kuang Bao Ju Xi,5.5,98,1.25,Action
+Shekko,5.9,658,2,Action
+The Miranda Brothers,4.4,194,1.65,Action
+Bandaa Singh Chaudhary,5.9,5300,1.883333333,Action
+Appu,8.2,203,1.533333333,Action
+Special Needs Revolt!,8.3,19,1.883333333,Action
+Black Storm,6.6,79,1.616666667,Action
+Warrior Awang and Master Tok Gajah,4.6,486,1.966666667,Action
+Stranded Pearl,6.2,47,1.5,Action
+South Side Hero,5.5,40,1.533333333,Action
+Premalo,7.3,1100,2.133333333,Action
+The Epidemic,5.9,72,1.583333333,Action
+Correr para Vivir,7,210,1.616666667,Action
+The Dragon's Tomb,6.7,59,1.283333333,Action
+The Last Chainsaw Massacre,3.7,43,1.25,Action
+Touchdown,6.8,14,1.3,Action
+The Circuit 4: Faith Fighter,4.4,96,1.5,Action
+Young Lion of the West,5.3,113,1.55,Action
+Bad Boyz,3.2,748,2.5,Action
+Jacob Tyler,4.1,69,2.216666667,Action
+Sentimentaaal,5,992,2.25,Action
+Surge of Power: Where There's Smoke,5.6,16,1.133333333,Action
+Mutant,5.5,109,1.5,Action
+Soodhu Kavvum 2: Naatum Naatu Makkalum,3.8,219,2.15,Action
+Sabari,6.4,5400,2.15,Action
+Hakkenden,5.9,85,2.483333333,Action
+Delivery Run,6.2,20,1.2,Action
+Bonnie,7.3,49,2,Action
+Desperado,5.9,159,1.666666667,Action
+Krishnamma,6.2,373,2.3,Action
+Bonus Trip,4.3,239,1.883333333,Action
+Transformers Prime: Galavatron's Revenge,4.7,20,1.733333333,Action
+El Duro,4.7,17,1.5,Action
+Kamen Rider 555 20th: Paradise Regained,5.8,159,1.083333333,Action
+Buddy,3.8,364,2.283333333,Action
+Oru Anveshanathinte Thudakkam,7.2,834,3.016666667,Action
+Fights Break Sphere 3,5,11,1.35,Action
+What Happens in Miami,4.2,224,1.5,Action
+Fyre Rises,6,329,1.833333333,Action
+Saala,5.5,1100,2.166666667,Action
+Champions of the Golden Valley,9.2,80,1.35,Action
+Death Game,6.5,29,1.466666667,Action
+Naag Bhoomi,6,11,2.166666667,Action
+Bhairadevi,8.7,55,2.233333333,Action
+Marni: The Story of Wewe Gombel,6.7,1000,1.983333333,Action
+London Gangsters,4.6,12,1.733333333,Action
+Crosspoint,6.5,62,1.666666667,Action
+Appudo Ippudo Eppudo,4.7,244,2,Action
+Zenithal,4.9,135,1.333333333,Action
+The Desperate Chase,5.7,80,1.833333333,Action
+Nine-Ring Golden Dagger,5.1,40,1.566666667,Action
+Return to the Ring,5.4,765,1.766666667,Action
+Dr. Jason II: Lights & Shadows,4.9,383,1.033333333,Action
+Oversteer,5.5,23,1.433333333,Action
+Spirit Riser,6.3,42,1.633333333,Action
+Breaking and Re-entering,5.8,472,1.816666667,Action
+Supplier Shankara,9.3,74,2.716666667,Action
+Thankamani,4.5,239,2.6,Action
+Bond of Justice: Kizuna Part I - Encounter,6,22,1.533333333,Action
+Kadakan,4,117,2.133333333,Action
+Dark Fusion,8.5,244,1.5,Action
+Bloodline,9.2,51,1.333333333,Action
+The Mick and the Trick,4.8,87,1.6,Action
+Telekinesis,5.8,63,1.766666667,Action
+Dragon Ball Z Kai,8.5,99,1.366666667,Action
+Gravediggers,5.9,41,1.516666667,Action
+The Bottom Line,6.7,14,1.783333333,Action
+Love You as the World Ends Final,6.6,44,1.916666667,Action
+Mega Twister,2.8,66,1.25,Action
+Gold Raiders,2,199,1.466666667,Action
+Gone with the Dead,4,63,1.6,Action
+Thiragabadara Saami,3.8,122,1.916666667,Action
+"Silex and the City, le film",5,59,1.283333333,Action
+The Moon Thieves,6,301,1.8,Action
+Gam Gam Ganesha,5.3,327,2.333333333,Action
+Panjab Files,8.2,37,1.95,Action
+Raanti,6.8,1100,1.916666667,Action
+Permafrost,5.7,115,1.333333333,Action
+Hell City,8.5,30,1.5,Action
+Serra das Almas,5.5,55,2,Action
+Emanet,7.7,32,1.616666667,Action
+Xing men shenyuan,3.8,280,1.433333333,Action
+Buying Time,6.3,510,1.4,Action
+Rob N Roll,6.1,1600,1.633333333,Action
+Tales Beyond the Galaxy,4.4,191,1.266666667,Action
+Jorge da Capadócia,5.8,170,1.983333333,Action
+Komandir,6.3,542,2.183333333,Action
+Hrashwo Deergha,7.9,108,2.5,Action
+Iddaru,8.7,298,2.466666667,Action
+The Escapee 3: The Final Escape,2.6,81,1.383333333,Action
+Average Student Nani,7.4,2300,2.3,Action
+Spider-Man: Final Swing,7.9,12,2.55,Action
+How to Make a Werewolf,5.5,146,1.63,Action
+Kiyma: Orman Kanunlari,3.9,44,1.35,Action
+AK47,7.2,16,2.433333333,Action
+Guns Blazin,7.1,10,1.466666667,Action
+Fuuto PI: Portrait of Kamen Rider Skull,7.4,57,1.366666667,Action
+Petta Rap,3.9,1700,2.05,Action
+Shadows of Betrayal: Chronicles of Ian Blair,7.1,15,1.083333333,Action
+Election,5.8,811,2,Action
+Samandar,7.7,143,2.866666667,Action
+Sunfall,2.4,53,1.233333333,Action
+Memes & Nightmares,5.7,95,1.35,Action
+Neon Fear,5.7,626,0.666666667,Action
+Joshua: Imai Pol Kaka,4.5,590,2.166666667,Action
+Usire Usire,7.3,1100,2.516666667,Action
+Türkler Çildirmis Olmali 2: Mavi Vatan,2.2,170,1.666666667,Action
+Hide and Seek,8,55,2.166666667,Action
+Tokusou Sentai Dekaranger 20th: Fireball Booster,7.1,41,0.833333333,Action
+Reloaded 2,7.4,1300,0.75,Action
+Roudhra Rupaya,7.3,2000,2.2,Action
+Timuchin,5.9,41,1.3,Action
+Die Chaosschwestern und Pinguin Paul,5.6,76,1.666666667,Action
+Ultraman Blazar the Movie: Tokyo Kaiju Showdown,7.3,103,1.25,Action
+The Drunken Prodigy,5.8,20,1.783333333,Action
+Iron Fighter,3.6,69,1.333333333,Action
+Nenu Keerthana,8.9,2100,2.583333333,Action
+Framed,2.6,122,1.63,Action
+Artist Unknown,7.9,22,1.366666667,Action
+Sarangadhariya,8.3,3100,2.5,Action
+The Worlds Divide,7.9,39,2,Action
+Agastya - Chapter 1,6.9,635,2.8,Action
+Polar,4.3,31,1.266666667,Action
+Marine Drive,9.4,52,1.75,Action
+Faster: Only one lap,6.9,24,1.5,Action
+Bloody Escape: Bats out of Hell,5.4,62,1.666666667,Action
+Ame no naka no yokujô,5.9,90,2.2,Action
+Bato: Road to Death,5.4,777,2.283333333,Action
+Brotherhood of Blades Kill Evil,9.4,135,1.4,Action
+Game of Death: The Six Doors to Hell,6.7,7,2.416666667,Action
+Captain Avispa,5.7,182,1.6,Action
+Youth in Trouble,7.8,30,1.766666667,Action
+The Yoshi Movie,8.1,15,1.75,Action
+Raktaksha,6.1,1700,1.966666667,Action
+Be Forever Yamato: Rebel 3199: Part 1: Dark Invasion,7.5,11,0.833333333,Action
+Jithender Reddy,7.7,2400,2.266666667,Action
+Jurassic Exorcist,4.3,24,1.266666667,Action
+Max Beyond,6.6,18,1.55,Action
+Rooban,6.5,277,2.083333333,Action
+Waspzilla,4.4,143,1.333333333,Action
+Death Bitch,7.4,23,1.466666667,Action
+The Last of Us: Immunity,4.3,33,1.066666667,Action
+Cholo Zombies,4.6,109,1.6,Action
+Mercy Killing,8.7,2700,2.183333333,Action
+Bad Ass Sista,6.4,10,1.333333333,Action
+Bullet,8.9,569,2.183333333,Action
+Re Xue Ran Shao,7.3,58,1.883333333,Action
+In Tenebras: Into the Darkness,2.6,181,1.5,Action
+Indrani: Epic-1 Dharam vs Karam,7.6,1100,2.616666667,Action
+Anthima Theerpu,7,1600,2.216666667,Action
+The Alexandrian,3.8,290,1.733333333,Action
+Shockwaves 2,2.8,159,1.316666667,Action
+Di Renjie: Duo Ming Yao Seng,6.8,63,1.333333333,Action
+Halloween: Mal Eterno,8.2,234,0.833333333,Action
+Pushpaka Vimanam,5.6,17,2.283333333,Action
+Sith Wars: Episódio III - Fantasmas Dos Sith,8.9,161,1.65,Action
+SMB-plush presents trick or death,8,17,2,Action
+Jathara,7.8,1100,2.15,Action
+Hain,2.9,51,1.583333333,Action
+Kaveri,6.7,1500,1.683333333,Action
+Gintama on Theater 2D: Kintama-hen,6.4,6,1.616666667,Action
+Haraa,5.2,2900,2.266666667,Action
+Yakuza Girl,2.2,71,1.366666667,Action
+Deadzone,4,39,1.333333333,Action
+Brattt,4.5,72,1.95,Action
+Played,6.2,11,1.6,Action
+Firework,6.1,13,1,Action
+Dünya Mali: Eksi Bir,7.2,18,2.216666667,Action
+Itutumba ka ng tatay ko,4.9,77,1.816666667,Action
+SCP: The Infinite Mission,6,37,1.63,Action
+The Vampire and the Vigilante,3.5,56,1.25,Action
+Losing Lerato 2,9,36,1.6,Action
+Atu Nuvve Itu Nuvve,6.5,12,2.05,Action
+Mr. Natwarlal,6.1,780,2.166666667,Action
+Playground,5.4,9,1.466666667,Action
+Timini,8.5,14,2,Action
+Yao Shen Ling,6.7,71,1.55,Action
+Hope & Glory,6.5,152,0.733333333,Action
+Kaalapatthar,6,1000,1.883333333,Action
+Inkabi,4.9,86,1.683333333,Action
+Kreem,6.8,130,1.916666667,Action
+Abudeka Is Back,5.4,50,2,Action
+Pariah Volume 1: Every Street Dog Has a Name,6.8,397,2.3,Action
+Roxana,3.9,70,1.633333333,Action
+Mahserin Üç Delisi,4.4,27,1.3,Action
+Nothing Unusual,8.8,13,1.533333333,Action
+Urban Vengeance,5.6,17,1.316666667,Action
+Dreams,6.1,12,1.766666667,Action
+Blood Vendetta,7.5,244,1.5,Action
+Cândido,6.4,69,1.65,Action
+Mirg,6.1,37,1.383333333,Action
+Dangerous Boys 2,5.1,13,1.916666667,Action
+Happy Dragons,4.9,9,1.616666667,Action
+Sumaho o otoshita dake na no ni: Saishusho Final Hacking Game,6.2,34,1.933333333,Action
+Chasing Raine,2.3,189,1.683333333,Action
+Kamen Rider Geats: Jyamato Awaking,7.8,84,0.9,Action
+Feng Zi Lao Ba,4.3,6,1.416666667,Action
+Di Renjie: Tongtian xuan an,6.8,21,1.416666667,Action
+Heavens: The Boy and His Robot,7.1,34,1.633333333,Action
+Dead Hand,4.1,76,1.533333333,Action
+E-mail,5.2,808,1.983333333,Action
+The SML YTP Movie 2: Dimension Trouble,8.4,17,1.566666667,Action
+Rocky and Bullwinkle,9.1,19,1.666666667,Action
+Kamen Rider Gotchard: The Future Daybreak,7.8,85,1.05,Action
+Useful Idiots,8.3,19,1.533333333,Action
+Kade,6.4,19,1.533333333,Action
+Bloodlust,8.3,18,1.616666667,Action
+Kohinoor,8.1,22,1.983333333,Action
+The ShortCut,7.8,1800,2.3,Action
+Jigar,6.8,21,2.033333333,Action
+Gintama the Movie 2D: Courtesan of the Nation Arc,7.8,12,1.816666667,Action
+The Correct Way of Youth,9.1,788,1.666666667,Action
+Holy Punch,5.1,51,1.633333333,Action
+Vorovka,4.9,57,1.5,Action
+Joachim and the Apocalypse,7.7,17,1.5,Action
+Shri Swapankumarer Badami Hyenar Kobole,5.6,335,2.433333333,Action
+Breaking Tradition,6.6,30,1.45,Action
+Ameena,6.3,20,1.783333333,Action
+Ohsama Sentai King-Ohger vs. Donbrothers,6.7,40,0.433333333,Action
+Revolutionize the World,7.3,54,1.3,Action
+Cholay,8.8,150,1,Action
+War of the Ninja Monsters: Jaron vs Goura,3.1,9,0.916666667,Action
+Pranaya Godari,7.8,2400,2.466666667,Action
+Charlotte Link - Ohne Schuld,5.5,44,1.483333333,Action
+Chinatown Chacha,5.1,60,1.716666667,Action
+Pungut,7.7,17,1.666666667,Action
+Crypto Storm,4.8,45,1.683333333,Action
+Raju Gari Ammayi Naidu Gari Abbayi,8.1,3100,2.633333333,Action
+Tiger's Trigger,4.1,20,1.4,Action
+Iravinil Aatam Par,2.8,154,1.966666667,Action
+"Bullets, Brothers and Blood",7.8,15,1.416666667,Action
+Klaantha,6,520,1.783333333,Action
+Hocus Focus,7.9,20,1.416666667,Action
+Achilles Curse and the Curse of Treasure,7.2,28,2.083333333,Action
+Janna Endoro,8.1,16,2,Action
+The Captive,6.9,62,1.233333333,Action
+Zoloto Umalty,4.9,113,1.816666667,Action
+Battling to Survive,7.1,54,1.233333333,Action
+The Very Last Christmas,8.6,12,1.25,Action
+Zhi Bao,5.7,26,1.666666667,Action
+Sathyam,7.6,11,2.233333333,Action
+Pithala Maathi,7.4,845,2.333333333,Action
+Hiranya,5.5,21,2.3,Action
+They're Here,7.4,7,1.233333333,Action
+Me and the Dragon's Daughter,4.9,11,1.25,Action
+Zeke,7,11,0.833333333,Action
+Guxim,7,39,1.25,Action
+Day of the Diesels,6.2,14,1.666666667,Action
+Dhaaak,8.5,26,2.133333333,Action
+Wonderful Precure! The Movie! Doki Doki Game no Sekai de Daiboken,6.3,42,1.183333333,Action
+Slide or Die the Movie,8.3,9,2.116666667,Action
+Operation Wakaliga: Fate and Blood,6.7,12,1.1,Action
+Dheera,7.9,1300,2.05,Action
+Seven Heroes Beat the Monster,6.8,51,1.483333333,Action
+Kaale Angrej,5.5,17,2.183333333,Action
+Jewish Revenge 6: Gaza in Focus,6,27,1.166666667,Action
+Agent 86,6.7,6,1.45,Action
+Vey Dharuvey,6.2,2300,2.116666667,Action
+Killer Ex,4,57,1.566666667,Action
+Clownface 3,8.2,58,1.733333333,Action
+Leha,2.3,43,1.633333333,Action
+Runnin' from Wolves,6.9,9,2.216666667,Action
+A Reel Heist,5.2,59,1.933333333,Action
+No Man Standing,8.6,12,1.55,Action
+Rock 'N' Roll Ringo,6,71,1.683333333,Action
+La Tamalera,8.5,11,1.916666667,Action
+Mother Mafia,3.2,60,1.333333333,Action
+A Love Story of Assassin,6.9,60,1.416666667,Action
+Joy Hanu Man,8.9,27,2.383333333,Action
+Mobile Suit Gundam: Silver Phantom,6.1,13,1.5,Action
+Rudra: The Beginning,9.4,38,2.25,Action
+Mavr,6.3,10,1.383333333,Action
+Break War,2.7,17,1.433333333,Action
+Revenge,1.8,48,2.116666667,Action
+StarGazer: The Need of the Many,4.6,13,0.783333333,Action
+Daanvi,1.5,9,1.95,Action
+Seetha Kalyana Vaibhogame,8.5,2000,2.433333333,Action
+Three Old Captors,7,50,1.566666667,Action
+Little Black Submarines,6.9,59,2.05,Action
+Big Brother,8.5,2000,1.916666667,Action
+Outlaws of the West: The Wagon to Mexico,8.2,5,1.116666667,Action
+Opasni shmatki,5.1,36,1.533333333,Action
+Travesty,7.3,12,1.3,Action
+Sacrum Vindictae II,4.1,15,1.9,Action
+Inherited,9,22,1.266666667,Action
+Abnormal: Buas,5.7,29,1.5,Action
+Spider-Man: Dimension Rift,8.5,15,2.116666667,Action
+Xiao zi,3.5,12,1.683333333,Action
+The Delegator,4.1,18,1.6,Action
+Gally Gang Stars,8.9,2100,2.616666667,Action
+Yentha Panichesav Chanti,9.4,86,2.25,Action
+Tranquility: Ghost Stories,7.6,53,1.466666667,Action
+Raja 420,6.3,23,1.35,Action
+S-99,8.6,2100,1.983333333,Action
+Opportunity,8.9,91,1.6,Action
+Speed Fight,6.8,52,1.45,Action
+Inexternal,3.2,27,1.383333333,Action
+The Domino File,5,8,1.7,Action
+Best Cop Ever,4.4,54,2.033333333,Action
+Vi possiamo salvare,2.7,104,1.483333333,Action
+Dirty Fellow,6.7,3800,1.983333333,Action
+Lealtad o Morir,8.5,11,1.45,Action
+Ryding Durty 2,7.8,6,1.5,Action
+El Junior Del Patron,7.3,16,1.533333333,Action
+El Cartel De Teresa,8.4,11,1.6,Action
+Jimmy's Friends,7.4,15,1.566666667,Action
+The Overseas Killer,6.4,52,1.733333333,Action
+Skhvatka,5.2,24,1.783333333,Action
+Give Me Babies,6.4,8,0.383333333,Action
+The Vent,8.9,15,0.05,Action
+The Winter Prophecy,8.1,14,0.866666667,Action
+Piri Reis: The Incredible Chart,7,27,2.3,Action
+Captain Superb and the Angel of Destiny,3,14,2,Action
+Duelo De Capos,6.4,41,1.383333333,Action
+Full Clip for a Snitch,3.6,19,1.25,Action
+Sesh Bazi,6.2,10,2.2,Action
+Bloods of Glasgow,8.2,5,0.85,Action
+Gull Lake Vice II: The Delusion Continues,8.1,18,0.966666667,Action
+Reeza GTR,7.1,17,1.516666667,Action
+Isle: Alpha One,8.7,9,1.616666667,Action
+Lie Du,3.2,10,1.783333333,Action
+Punish Evil,6.2,5,1.416666667,Action
+Operation Star,7.8,25,1.7,Action
+The Journey of Flower,4,29,1.616666667,Action
+Dark World,4.9,19,2.25,Action
+The Legend of Man and Loong,9.2,5,1.6,Action
+Dheera Bhagat Roy,8.1,1100,2.5,Action
+Snowstorm,4.5,7,1.516666667,Action
+The Mystery of Humanoid Puppet,6.8,62,1.466666667,Action
+Jurassic Island,7.7,53,1.583333333,Action
+The Deal,8.9,28,2.166666667,Action
+The Story of A Captor,7.1,52,1.683333333,Action
+Jiwa 8 Belas,5,19,1.433333333,Action
+Vhoyal,8.3,7,2.3,Action
+The Knights Errant of an Jier,7.2,54,1.433333333,Action
+Wilhelm Gustloff,8.7,9,1.833333333,Action
+Nasha Jurm Aur Gangsters,6.1,2800,2.283333333,Action
+Krapiva: Tsvetok smerti,6.1,59,1.35,Action
+War with the Evil,6.2,54,1.416666667,Action
+Combat Code: Hunt,7.7,20,1.266666667,Action
+The Kills,8.8,11,1.166666667,Action
+Passazhiry,4.2,35,1.333333333,Action
+Bush Knife,7.4,9,1.5,Action
+Out of the Shadow,6.5,7,1.483333333,Action
+Whispers of the Imperial City,6.8,53,1.5,Action
+Drunken Swordsman,6.8,51,1.516666667,Action
+Luna de Hiel,6.1,33,1.383333333,Action
+Kallu Compound 1995,7.5,2000,2.333333333,Action
+Riddle of the Shadow Lotus,6.3,54,1.533333333,Action
+Los Hijos De Camelia y Emilio,6.7,40,1.366666667,Action
+The End of Hen,8.6,11,1.25,Action
+Common Creed: Trafficking,6.6,13,1.766666667,Action
+Po du xing dong,6.4,7,1.316666667,Action
+Captain Toad and the Mystery Mine,8.9,16,1.283333333,Action
+Jefa De Jefas,8.5,11,1.366666667,Action
+5 Pounds of Pressure,6.6,17,1.85,Action
+The Mirage,8.9,10,1.766666667,Action
+Kyle and the Last Emerald 2,8.4,9,0.25,Action
+Dhil Raja,8.4,132,1.766666667,Action
+Mandya Haida,5.6,230,2.316666667,Action
+"La Protegida, La Película",8.9,17,1.116666667,Action
+Zen Fist,7.2,10,0.75,Action
+Herencia Llena De Sangre,5.5,12,1.55,Action
+Action of Intelligenagency,6.7,52,1.416666667,Action
+Bring Back the Colour,6.4,8,0.783333333,Action
+Anger,7.7,18,1.383333333,Action
+PW V: Tears of the Fallen,8.2,10,1,Action
+SITV Presents: Tabsentia,8.3,8,1.333333333,Action
+Kyle and the Last Emerald,5.4,18,0.333333333,Action
+Falsos Amigos,5.5,12,1.883333333,Action
+La Chakalosa,5.5,12,1.6,Action
+Oda: Vlucht door de Eeuwen,6.4,7,1.7,Action
+Gadha17,6.8,14,1.5,Action
+Banana Shotgun,8.4,7,1.766666667,Action
+Las Hermanas Del Cartel,8.7,7,1.516666667,Action
+Sehnsucht nach Firdaws,8.7,7,1.716666667,Action
+Bambara Wasanthe,7.5,6,1.683333333,Action
+Siete Vidas - El Levanton,4.9,11,0.75,Action
+Killer Lee,1.9,9,1.45,Action
+Sketch,7.2,1600,1.55,Adventure
+The Wild Robot,8.2,193000,1.7,Adventure
+Flow,7.9,91000,1.416666667,Adventure
+Moana 2,6.5,115000,1.666666667,Adventure
+Mufasa: The Lion King,6.6,75000,1.966666667,Adventure
+Inside Out 2,7.5,229000,1.6,Adventure
+Paddington in Peru,6.6,28000,1.766666667,Adventure
+The Return,6.2,11000,1.933333333,Adventure
+Despicable Me 4,6.2,71000,1.566666667,Adventure
+Ghostbusters: Frozen Empire,6.1,97000,1.916666667,Adventure
+Monster Summer,5.7,5200,1.616666667,Adventure
+Spaceman,5.7,45000,1.783333333,Adventure
+My Penguin Friend,6.8,6000,1.616666667,Adventure
+Arthur the King,7,36000,1.783333333,Adventure
+The Garfield Movie,5.7,26000,1.683333333,Adventure
+Wallace & Gromit: Vengeance Most Fowl,7.5,37000,1.366666667,Adventure
+The Day the Earth Blew Up: A Looney Tunes Movie,6.8,7100,1.516666667,Adventure
+Harold and the Purple Crayon,5.7,9200,1.5,Adventure
+Manjummel Boys,8.2,29000,2.25,Adventure
+Spellbound,5.5,8200,1.816666667,Adventure
+Orion and the Dark,6.3,18000,1.55,Adventure
+The Goat Life,7.1,49000,2.883333333,Adventure
+Lost on a Mountain in Maine,6.1,2200,1.633333333,Adventure
+Please Don't Feed the Children,4.8,720,1.566666667,Adventure
+Sasquatch Sunset,5.4,5800,1.466666667,Adventure
+Doraemon the Movie: Nobita's Earth Symphony,6.6,1700,1.916666667,Adventure
+Bookworm,6,2300,1.716666667,Adventure
+The Last Redemption,6.9,6500,2.033333333,Adventure
+That Christmas,6.8,17000,1.516666667,Adventure
+Family Pack,5.5,10000,1.566666667,Adventure
+Sunlight,6.4,189,1.6,Adventure
+Something in the Water,4.1,5300,1.433333333,Adventure
+Winner,6.5,2900,1.716666667,Adventure
+Dragonkeeper,5.7,1900,1.633333333,Adventure
+Crayon Shin-chan: Our Dinosaur Diary,6.6,668,1.766666667,Adventure
+Autumn and the Black Jaguar,5.7,1100,1.666666667,Adventure
+Eat the Night,6.1,633,1.766666667,Adventure
+The Mountain,6.4,237,1.483333333,Adventure
+Buffalo Kids,6.6,834,1.55,Adventure
+Cult Killer,4.8,3000,1.75,Adventure
+Saint-Exupéry,5.4,671,1.633333333,Adventure
+Bambi: A Tale of Life in the Woods,5.6,306,1.3,Adventure
+No Chains No Masters,6.3,719,1.633333333,Adventure
+The Great Lillian Hall,7.3,2200,1.833333333,Adventure
+The Best Christmas Pageant Ever,6.8,6400,1.65,Adventure
+Robin and the Hoods,4.3,553,1.666666667,Adventure
+Kalvan,5.6,1000,2.366666667,Adventure
+Night of the Zoopocalypse,6,1100,1.516666667,Adventure
+Noah's Ark,4.2,718,1.6,Adventure
+Man and Witch: The Dance of a Thousand Steps,5.6,368,1.566666667,Adventure
+Guest from the Future,6,1300,2.35,Adventure
+Saving Bikini Bottom: The Sandy Cheeks Movie,3.7,4200,1.366666667,Adventure
+Empire Queen: The Golden Age of Magic,3.3,306,2.466666667,Adventure
+Gracie and Pedro: Pets to the Rescue,5,300,1.45,Adventure
+My Freaky Family,6.1,437,1.433333333,Adventure
+Rocky Road to Berlin,7.2,1500,1.733333333,Adventure
+The Empire,5.2,1400,1.833333333,Adventure
+The Firing Squad,5,5100,1.55,Adventure
+Diplodocus,6.2,217,1.55,Adventure
+My Oni Girl,6,2000,1.866666667,Adventure
+Storm Crashers,6.1,608,1.466666667,Adventure
+Five Friends,6.7,1000,1.866666667,Adventure
+Its Name Was Mormo,3.7,197,1.55,Adventure
+Sam and Colby: The Legends of the Paranormal,4.8,321,1.633333333,Adventure
+Lumina,2.2,725,1.883333333,Adventure
+Planetquake,3,334,1.416666667,Adventure
+Thelma the Unicorn,5.7,3100,1.55,Adventure
+Woody Woodpecker Goes to Camp,4.5,2700,1.666666667,Adventure
+Seven Seas Seven Hills,8.6,102,1.5,Adventure
+A Sloth Story,5.6,289,1.5,Adventure
+Unspeakable: Beyond the Wall of Sleep,3.9,147,1.5,Adventure
+Earthquake Underground,3.2,233,1.383333333,Adventure
+Si Juki the Movie: Harta Pulau Monyet,6.1,144,1.783333333,Adventure
+Meanwhile on Earth,5.9,1100,1.483333333,Adventure
+Panda Bear in Africa,5.5,395,1.4,Adventure
+Rebellious,6.1,251,1.566666667,Adventure
+Dalia and the Red Book,5.9,176,1.783333333,Adventure
+Rally Caps,5.5,148,1.666666667,Adventure
+The Adventures of Jurassic Pet: Return to the Wild,5.4,89,1.5,Adventure
+This Too Shall Pass,8,23,1.75,Adventure
+Gaami,6.3,2100,2.45,Adventure
+The Keepers of the 5 Kingdoms,4.1,235,1.816666667,Adventure
+Chuck Billy and the Marvelous Guava Tree,7.4,1300,1.5,Adventure
+One Million Babes BC,2.2,93,1.25,Adventure
+Bull Shark 3,2.7,140,1.266666667,Adventure
+The Backrooms,8.2,16,1.05,Adventure
+Kvitebjørn,5.8,93,1.416666667,Adventure
+Return to Wickensburg,4.6,96,1.466666667,Adventure
+Jurassic Triangle,2.5,296,1.4,Adventure
+The Goat,5.8,390,1.516666667,Adventure
+Vertical,5.2,152,1.85,Adventure
+I Hate Summer,5.1,699,1.716666667,Adventure
+Elli and Her Monster Team,4.8,117,1.433333333,Adventure
+At Her Feet,7.7,72,1.666666667,Adventure
+Kaizen,7,792,2.666666667,Adventure
+Dongeng Sang Kancil,6.6,234,1.65,Adventure
+All for One,1.5,697,1.616666667,Adventure
+Going Viral,7,307,1.5,Adventure
+Little Emma,5.3,149,1.766666667,Adventure
+The Blinkless,6.4,20,0.983333333,Adventure
+The Star City Murders,4.1,155,1.316666667,Adventure
+The Casagrandes Movie,5.6,716,1.483333333,Adventure
+Niko: Beyond the Northern Lights,6.1,368,1.433333333,Adventure
+Never Look Away,7.1,307,1.416666667,Adventure
+Diving Into the Darkness,8.8,100,1.6,Adventure
+Treasure Trackers,5.6,183,1.533333333,Adventure
+The Phantom Warrior,2.4,572,1.983333333,Adventure
+Trifole,7.4,63,1.666666667,Adventure
+Dünya Varmis,6.6,70,1.666666667,Adventure
+Kodaikanal,9.3,73,2.883333333,Adventure
+The Big Trip 3: Race Around the World,5.5,82,1.416666667,Adventure
+Un lío de millones,5.2,309,1.516666667,Adventure
+The Epic of Gilgamesh,5.2,6,1.316666667,Adventure
+Mong Vuot,4.9,185,1.6,Adventure
+Shrek 5: The Contract - A Fan Made Film,7.3,26,1.4,Adventure
+Teenz,4.4,870,2.033333333,Adventure
+Oculus,6,15,1.883333333,Adventure
+Bremenskie muzykanty,4.4,773,1.916666667,Adventure
+Benjamin Bat,7.9,34,1.25,Adventure
+Fox & Hare Save the Forest,5.9,232,1.183333333,Adventure
+A Trip Elsewhere,5.5,116,1.55,Adventure
+"Maya, donne-moi un titre",6.4,73,1.016666667,Adventure
+Ghost Island,6.9,60,1.583333333,Adventure
+Stinky Summer,5.3,59,1.5,Adventure
+Amazon Bullseye,5.3,230,1.883333333,Adventure
+Yolki 11,4.6,190,1.533333333,Adventure
+Oscar Wilde About America,4.4,36,1.633333333,Adventure
+The Forest,5.8,56,1.283333333,Adventure
+LasseMajas detektivbyrå - Maskoten som försvann,6,73,1.5,Adventure
+Z-Mom,4.8,48,1.5,Adventure
+Gepack,6.6,377,1.616666667,Adventure
+Marianengraben,7.2,101,1.45,Adventure
+Birds Flying East,5.8,618,1.666666667,Adventure
+Askepote,3.4,90,1.2,Adventure
+Ahl Al Kahf,5.3,306,2,Adventure
+Letuchiy korabl,3.4,412,1.666666667,Adventure
+Daye: Seret ahl el Daye,7.7,20,1.733333333,Adventure
+Yaren Leylek,5.1,40,1.583333333,Adventure
+Triple 7: They Said It Couldn't Be Done,8.6,15,1.616666667,Adventure
+Güzel Bir Rüya,4.7,50,1.316666667,Adventure
+Zak & Wowo: The Legend of Lendarys,5.6,105,1.416666667,Adventure
+Powder Pup,5.9,87,1.483333333,Adventure
+Turma da Mônica Jovem: Reflexos do Medo,2.8,262,1.466666667,Adventure
+My Redneck Neighbor: Chapter 1 - The Rednecks Are Coming,5.3,12,1.233333333,Adventure
+Pui Pui Molcar the Movie: Molmax,6.3,21,1.15,Adventure
+Dead Dead Demon's Dededede Destruction Koushou,7,156,2,Adventure
+Luigi's Mansion,5.9,20,1,Adventure
+Ivan Tsarevich i Seryy Volk 6,5.2,113,1.416666667,Adventure
+Six Nine Five (695),7.1,710,2.283333333,Adventure
+Baba Yaga spasaet Novyy god,4.4,135,1.65,Adventure
+Nature Cat's Nature Movie Special Extraordinaire,7.1,22,0.883333333,Adventure
+Big Water Theory,7.9,11,1.383333333,Adventure
+Cazatesoros,6.5,30,1.766666667,Adventure
+Adam i Eva,5.1,97,1.583333333,Adventure
+Friendly Fire,6.1,72,1.75,Adventure
+Beyond existence,4.1,23,1.583333333,Adventure
+Colour Palette,9.4,53,1.45,Adventure
+Masha and the Bear. Wonder Park,7,22,0.966666667,Adventure
+The Umbrella Fairy,5.7,63,1.583333333,Adventure
+Dead Dead Demon's Dededede Destruction,7,148,2,Adventure
+Dikkie Dik en de Verdwenen Knuffel,7.2,136,1.033333333,Adventure
+Ne odna doma,3.3,116,1.316666667,Adventure
+Ice Maiden,8.6,89,1.5,Adventure
+Goodbye Hamdi,6.6,12,1.416666667,Adventure
+The Eye of the Salamander,6,46,1.35,Adventure
+The Trail,7.8,38,1.333333333,Adventure
+Satu - Year of the Rabbit,9,61,1.55,Adventure
+Tipppsy,8.1,34,1.916666667,Adventure
+Chernyy zamok,5.1,66,1.916666667,Adventure
+Steal the Naughty List,4.8,132,1.5,Adventure
+Piraty galaktiki Barrakuda,4.5,93,1.533333333,Adventure
+Håkan Bråkan 2,5.3,149,1.533333333,Adventure
+Son of the Wolf,3.7,7,1.366666667,Adventure
+Tay 2: Ebabil Takimi,4.9,46,1.3,Adventure
+Banana Boat,5.5,22,1.3,Adventure
+Tri bogatyrya. Ni dnya bez podviga,5.8,92,1.016666667,Adventure
+Arctic Hollow,2.3,187,1.166666667,Adventure
+Wonderland,6.8,13,2,Adventure
+This Land of Mine,4.5,38,1.5,Adventure
+Petualangan Anak Penangkap Hantu,5.5,29,1.65,Adventure
+"Poymay sobaku, esli smozhesh",3.5,39,1.6,Adventure
+Lo carga el diablo,7.7,31,1.716666667,Adventure
+STEVE (A Minecraft Movie),6.9,14,1.016666667,Adventure
+Oyunda Kal: Eglence Arenasi,2.5,40,1.533333333,Adventure
+Anytime,8.9,25,1.033333333,Adventure
+Tri kota. Zimnie kanikuly,6.5,36,1.083333333,Adventure
+Dracu Ra,5.6,47,1.766666667,Adventure
+Two Breaths,8,54,0.3,Adventure
+Troy the Bharat Putra,5.2,34,2.233333333,Adventure
+Mountain Boy,8,30,1.55,Adventure
+Orango,7.3,75,1.566666667,Adventure
+Xibalba Monster,6.7,32,1.266666667,Adventure
+Bratya,2.8,139,1.716666667,Adventure
+Poklad,4.5,55,1.666666667,Adventure
+Igrisca ne damo!,6.5,35,1.316666667,Adventure
+Dikkie Dik 2: Een Nieuwe Vriend voor Dikkie Dik,7.3,85,1.166666667,Adventure
+Vikaasaparva,8.4,545,2.233333333,Adventure
+Príncipe Lu e a Lenda do Dragão,4.1,29,1.5,Adventure
+De Legende van Familie Vos,5.6,60,1.35,Adventure
+Suvorovets 1944,3.5,30,1.5,Adventure
+Jaunt,8.7,8,1.3,Adventure
+Mama,8.5,7,1.666666667,Adventure
+Ognivo,5.4,263,1.75,Adventure
+Xin Longmen kezhan,2.9,7,1.216666667,Adventure
+Mukhadrakon,5.3,18,1.816666667,Adventure
+Suchana,8.7,511,1.5,Adventure
+Moy dikiy drug,6.2,71,1.666666667,Adventure
+Moy lyubimyy chempion,2.3,424,1.583333333,Adventure
+The Secret of Pin-Up Island,7.3,98,1.783333333,Adventure
+Mesken (Messuage),7.3,47,1.65,Adventure
+Shanghai Story,7.9,67,1.183333333,Adventure
+Samaya bolshaya luna,2.4,146,1.75,Adventure
+BAM!,7.1,31,1.333333333,Adventure
+Mai Martaba,5.4,11,1.433333333,Adventure
+Antarctic Voyage,7.7,12,0.8,Adventure
+Manyunya. Priklyucheniya v Moskve,5.6,115,1.45,Adventure
+Il cammino: Viaggio in Calabria,8.4,7,0.966666667,Adventure
+Famous Patrick (A Super SpongeBob Fan Movie),9.3,29,0.883333333,Adventure
+Minecraft But I Survive Again in Parkour Civilization,8.9,49,1.9,Adventure
+QAnon Avenue,8.7,10,0.95,Adventure
+I'm Professional,3.7,8,1.583333333,Adventure
+Yasmeen's Element,7.6,22,1.266666667,Adventure
+The Last Five Days: The Freak Building,3.7,60,1.016666667,Adventure
+Luccas e Gi em: Dinossauros,3.5,28,1.516666667,Adventure
+Tulang Belulang Tulang,7.1,52,1.583333333,Adventure
+Manyunya. Priklyucheniya v derevne,5.7,126,1.4,Adventure
+Tur s Ivanushkami,5.3,170,1.85,Adventure
+Advent,7.5,6,1.983333333,Adventure
+"Fallen Leaves, Broken Lighters",7.7,9,1.6,Adventure
+Pirates & Slaves,5.8,6,0.883333333,Adventure
+Abá e Sua Banda,7.2,23,1.4,Adventure
+Tracing the Divide,8.8,174,1.4,Adventure
+Dandelion,8.9,9,1.583333333,Adventure
+No More Trouble - Cosa rimane di una tempesta,8.6,21,1.616666667,Adventure
+Yao guai sen lin,7.2,6,1.433333333,Adventure
+Mortadella,8.4,8,1.5,Adventure
+Boom!,8.1,12,1.5,Adventure
+Frankenstein Theater: The Magic Sword,4.1,25,1.366666667,Adventure
+The Bigfoot Prophecy,4.8,23,1.95,Adventure
+The Ghost of Annie Lee,4.8,5,1.716666667,Adventure
+Novyy god v Beryozovke,7,105,1.566666667,Adventure
+Let's Go! Anpanman: Baikinman and Lulun,6.5,9,1.066666667,Adventure
+Ngesot,4.8,18,1.45,Adventure
+Bar MoskvaChiki,4.4,112,1.516666667,Adventure
+Lajjpal,9,8,4.2,Adventure
+Devka-baba: Kukla-charodeyka,7.9,9,1.55,Adventure
+V potoke trekh stikhiy,5,44,1.416666667,Adventure
+Gostya iz kosmosa,8.7,7,1.166666667,Adventure
+Okhota na russkogo geniya,5.5,13,1.183333333,Adventure
+Vasilisa i khraniteli vremeni,3,86,1.633333333,Adventure
+Historia de pastores,5.6,37,1.333333333,Adventure
+A Christmas Carol,9.4,14,0.65,Adventure
+Abar Arownne Din Ratri,8,9,1.85,Adventure
+Longe da Estrada,6,9,1.133333333,Adventure
+Applepictures the Poseidon Legacy,6.6,20,1.4,Adventure
+Novogodniy ekspress,6.8,10,0.783333333,Adventure
+The Ballad of Straw Hat Sam,8.5,13,0.75,Adventure
+Il ricercatore,6.4,9,1.183333333,Adventure
+The Kingfish 2,7.9,12,1.2,Adventure
+Selebryata,3.6,21,1.55,Adventure
+Whites Only: Ade's Extremist Adventure,6.7,30,1.083333333,Adventure
+Qianhe xiansheng,4.4,5,1.366666667,Adventure
+YA - medved,5.1,62,1.616666667,Adventure
+The Long Quiet,9.4,5,1.566666667,Adventure
+Skazochnyy patrul. Shou prodolzhayetsya,7.2,11,1.083333333,Adventure
+Tayna Chyornoy Ruki,5.7,24,1.4,Adventure
+Beyaz Zenciler: Yapim Asamasi,8.6,5,0.916666667,Adventure
+Turbozavry. God drakona,8.7,46,0.8,Adventure
+Chyortov kamen,4,24,1.75,Adventure
+IF,6.4,61000,1.733333333,Animation
+Spermageddon,5.4,1700,1.333333333,Animation
+Memoir of a Snail,7.8,21000,1.583333333,Animation
+Mars,6.8,34,1.4,Animation
+Mononoke the Movie: The Phantom in the Rain,6.7,1500,1.483333333,Animation
+Boys Go to Jupiter,7,167,1.5,Animation
+The Remarkable Life of Ibelin,8.2,13000,1.716666667,Animation
+Look Back,7.8,17000,0.966666667,Animation
+The Glassworker,7.2,2100,1.633333333,Animation
+Haikyu!! The Dumpster Battle,7.7,6800,1.416666667,Animation
+The Colors Within,7.1,1300,1.683333333,Animation
+Uma Musume: Pretty Derby - Beginning of a New Era,7.4,249,1.8,Animation
+White Snake: Afloat,6.9,634,2.216666667,Animation
+Piece by Piece,6.9,6700,1.55,Animation
+The Most Precious of Cargoes,7.1,1700,1.35,Animation
+Blue Lock: Episode Nagi,6.6,2800,1.516666667,Animation
+Grand Theft Hamlet,6.9,2300,1.483333333,Animation
+Re: Zero - Starting Life in Another World- Season 3 Episode 1 90-minute Special 'Theatrical Malice',8.8,1400,1.5,Animation
+Detective Conan: The Million-Dollar Pentagram,6.7,1700,1.85,Animation
+10 Lives,6,2200,1.466666667,Animation
+Super-Charlie,5.7,219,1.366666667,Animation
+Le parfum d'Irak,7.9,54,1.583333333,Animation
+Frida,7.5,1600,1.45,Animation
+Sanatorium Under the Sign of the Hourglass,5.4,143,1.25,Animation
+Out of the Nest,6.5,144,1.4,Animation
+(S)KiDS,8.2,164,1.416666667,Animation
+Trapezium,6.2,180,1.583333333,Animation
+Lesbian Space Princess,7.1,243,1.45,Animation
+Johnny Puff: Secret Mission,4.8,490,1.45,Animation
+The Night Before Christmas in Wonderland,6.3,532,1.333333333,Animation
+Hola Frida,6.9,69,1.366666667,Animation
+Savages,6.8,502,1.45,Animation
+Given 3: To the Sea,7.6,206,1.333333333,Animation
+Angelo dans la forêt mystérieuse,6.1,150,1.35,Animation
+Rafadan Tayfa: Kapadokya,6.5,150,1.4,Animation
+Ghost Cat Anzu,6.6,913,1.616666667,Animation
+The Quintessential Quintuplets Specials 2,6.8,200,0.766666667,Animation
+From Ground Zero,7.9,590,1.866666667,Animation
+Double Tuckerr,5.2,1500,2,Animation
+"Die Heinzels: Neue Mützen, Neue Mission",6,114,1.266666667,Animation
+Into the Mortal World,7,257,1.966666667,Animation
+Boonie Bears: Time Twist,5.9,186,1.75,Animation
+Given the Movie: Hiiragi Mix,7.6,286,1.166666667,Animation
+SuperKlaus,4.3,218,1.466666667,Animation
+Among Neighbors,9.6,53,1.666666667,Animation
+The Proud Princess,6.3,159,1.4,Animation
+Living Large,6.9,198,1.333333333,Animation
+Peppa's Cinema Party,4.9,159,1.083333333,Animation
+Sabbath Queen,7.9,71,1.75,Animation
+God with Three Eyes,5.7,33,1.866666667,Animation
+Fureru,6.1,73,1.783333333,Animation
+Terra Incognita 1901,5.2,72,1.3,Animation
+DreadClub: Vampire's Verdict,5,80,1.466666667,Animation
+The Storm,6.1,148,1.7,Animation
+Quo Vadis,7.6,807,1.5,Animation
+Mariposas Negras,7,80,1.383333333,Animation
+Slocum et moi,7.1,99,1.25,Animation
+Where the Robots Grow,2.6,541,1.466666667,Animation
+Schirkoa: In Lies We Trust,5.5,174,1.716666667,Animation
+Tobias and the Arcane Merchant,8.9,50,2.783333333,Animation
+TWST: Things We Said Today,7,70,1.433333333,Animation
+Heartsping : Teenieping of Love,7.3,34,1.26,Animation
+Ugly Sweater,5.9,20,1.333333333,Animation
+"Ado SPECIAL LIVE ""Shinzou"" in Cinema",9,59,2.333333333,Animation
+A Few Moments of Cheers,7.1,65,1.133333333,Animation
+Rock Bottom,6.3,72,1.433333333,Animation
+Detective Conan vs. Kid the Phantom Thief,6.1,175,1.35,Animation
+The Formula for Water,4.6,39,1.433333333,Animation
+Jin Ling Yu Mao,5.3,32,1.616666667,Animation
+Ganbatte Ikimasshoi,5.3,17,1.583333333,Animation
+Bocchi the Rock! Recap Part 1,7.5,217,1.5,Animation
+Woolina and the No Birds,8.2,53,1.333333333,Animation
+Mustafa,6.9,77,1.25,Animation
+Olivia & the Clouds,7.1,70,1.35,Animation
+Hello My Beautiful Creatures,6.8,177,2.366666667,Animation
+Nie Xiaoqian,6.4,20,1.866666667,Animation
+Lilla spöket Laban spökar igen,6.1,34,0.733333333,Animation
+Luntik. Vozvrashchenie domoy,6.4,86,1.18,Animation
+PAPmusic - Animation for Fashion,1,204,1.416666667,Animation
+Norbert,6.8,18,1.25,Animation
+Il segreto di Liberato,7.2,234,1.5,Animation
+Ya Boy Kongming! Road to Summer Sonia,7.3,46,1.983333333,Animation
+"Robotia, the Movie",7.4,35,1.433333333,Animation
+Motu Patlu & The Race to the Diamond Valley,7.9,29,1.2,Animation
+Bocchi the Rock! Recap Part 2,7.4,156,1.283333333,Animation
+Yumi's Cells: The Movie,6.3,55,1.55,Animation
+Jon Vardar protiv Galaksijata,8.2,79,1.433333333,Animation
+The Greatest Surf Movie in the Universe,4.7,9,1.35,Animation
+Bartali's Bicycle,7.5,10,1.333333333,Animation
+Uma & Haggen: Mitos,7.4,61,1.566666667,Animation
+Rocket Club: Across the Cosmos,7.5,22,1.133333333,Animation
+Pleasant Goat and Big Big Wolf: The World Guardians,6.6,17,1.6,Animation
+Arne Alligator och djungelkompisarna,4.6,53,1.016666667,Animation
+Transformers: 40th Anniversary Event,7.2,31,1.6,Animation
+Kuramerukagari,5.9,91,1.016666667,Animation
+Maxxie LaWow: Drag Super-shero,7.5,341,1.9,Animation
+Animal Tales of Christmas Magic,6.8,53,1.2,Animation
+Rhythm of a Flower,7.3,15,1.35,Animation
+Motu Patlu & The Rise of Zombies,6.9,17,1.233333333,Animation
+Astra,6.8,9,1.333333333,Animation
+Code Geass: Rozé of the Recapture - Part 1,7.6,47,1.233333333,Animation
+Sunburnt Unicorn,7.7,13,1.35,Animation
+Riki Rhino: The Bird Kingdom,5.3,25,1.816666667,Animation
+Luv You Shankar,5.9,46,2,Animation
+Love Live! Nijigasaki High School Idol Club Final Chapter Part 1,7,18,0.983333333,Animation
+Dinonauts,5.9,8,1.283333333,Animation
+Bizarros Peixes das Fossas Abissais,7.6,16,1.25,Animation
+"Hey, Tete",6.4,9,2.516666667,Animation
+Code Geass: Rozé of the Recapture: Part 2,7.7,33,1.266666667,Animation
+Zuzubalândia: O Filme,6,12,1,Animation
+Velký Pán,6.8,11,1.216666667,Animation
+Iris the Movie: Full Energy!!,7.3,9,1,Animation
+Ninja Doomscrolling,8.1,104,1.6,Animation
+Animal Adventures: Save the Forest,7.7,34,1.416666667,Animation
+Gujeyeog-eseo sal-a dol-aon dwaeji,5,15,1.75,Animation
+Nasreddin Hoca: Zaman Yolcusu - Kadim Medeniyetler,7.7,12,1.3,Animation
+The Car Acrobatic Team Saga,7.2,12,1.866666667,Animation
+Bob a Bobek ve filmu: Na stope Mrkvojeda,7,38,1.333333333,Animation
+Sirds likums,6.7,18,1.083333333,Animation
+Code Geass: Rozé of the Recapture: Part 4,6.6,19,1.166666667,Animation
+2475 Dawn of Revolution,6.3,153,2.116666667,Animation
+Code Geass: Rozé of the Recapture: Part 3,7.2,29,1.266666667,Animation
+Ekip: Siberay - Günes Firtinasi,6,14,1.2,Animation
+Balentes,7.4,8,1.166666667,Animation
+Bie ba zuo wen dang hui shi er,7.2,12,1.483333333,Animation
+Young doctor's notes,3.5,7,1.433333333,Animation
+Saturday Night,6.9,35000,1.816666667,History
+I'm Still Here,8.2,118000,2.283333333,History
+5-Sep,7.1,29000,1.583333333,History
+Small Things Like These,6.7,29000,1.633333333,History
+The Apprentice,7.1,63000,2.033333333,History
+Harvest,6,924,2.216666667,History
+The Girl with the Needle,7.5,16000,2.05,History
+Queer,6.4,25000,2.283333333,History
+The Six Triple Eight,6.7,29000,2.116666667,History
+Joy,7.1,10000,1.916666667,History
+The Devil's Bath,6.6,7100,2.016666667,History
+Unfrosted,5.5,36000,1.616666667,History
+Reagan,6.1,12000,2.35,History
+Vermiglio,6.9,5500,1.983333333,History
+The Children's Train,7.4,8400,1.766666667,History
+Apocalypse in the Tropics,7.6,1700,1.833333333,History
+Bonhoeffer: Pastor. Spy. Assassin.,6.2,4100,2.216666667,History
+Intoxicated by Love,8.5,14000,1.966666667,History
+Bibi Rajni,8.5,752,2.383333333,History
+Grand Tour,6.5,2300,2.15,History
+Being Maria,6.1,920,1.666666667,History
+Maidaan,7.9,23000,3.016666667,History
+Quisling: The Final Days,7.1,1400,2.433333333,History
+Maharaj,6.5,15000,2.183333333,History
+Bir Cumhuriyet Sarkisi,7.4,1500,2.133333333,History
+Escape from Germany,5.4,1100,1.616666667,History
+Goebbels and the Führer,6.7,2800,2.25,History
+"From Hilde, with Love",6.9,1300,2.083333333,History
+Waves,7.8,2100,2.183333333,History
+Before Dawn,5.4,1200,1.683333333,History
+Gloria!,6.5,1100,1.766666667,History
+Six Days in August,4.9,175,2,History
+The Flood,6.4,387,1.683333333,History
+Witch,4.9,1400,1.783333333,History
+Atomic People,8.3,176,1.5,History
+In Her Place,6.3,7200,1.6,History
+Battlefield,6.2,735,1.733333333,History
+The New Year That Never Came,8.1,5700,2.3,History
+Shirley,6.2,3400,1.95,History
+Apollo 13: Survival,7.4,2600,1.633333333,History
+Ei koskaan yksin,7,503,1.416666667,History
+Limonov: The Ballad of Eddie,5.9,1200,2.3,History
+Meeting with Pol Pot,6.4,525,1.866666667,History
+Liza: A Truly Terrific Absolutely True Story,7.5,562,1.733333333,History
+ABBA: Against the Odds,7.3,659,1.5,History
+Unsinkable,5.7,171,1.666666667,History
+Vindication Swim,5.9,232,1.633333333,History
+The Damned,5.4,974,1.483333333,History
+Shivrayancha Chhava,7,430,1.333333333,History
+Seize Them!,5.1,1300,1.516666667,History
+Einstein and the Bomb,6.2,4200,1.266666667,History
+Ataturk II: 1881-1919,8.8,2500,2.35,History
+Le quatrième mur,6.4,188,1.933333333,History
+Lula,5.5,208,1.5,History
+The Volunteers: The Battle of Life and Death,6.1,303,2.4,History
+Witches,7.4,1400,1.5,History
+The Great Ambition,7.1,1000,2.05,History
+Accident or Conspiracy: Godhra,7.4,792,2.216666667,History
+Becoming Madonna,6.8,478,1.516666667,History
+Something to Stand for with Mike Rowe,8.5,313,1.6,History
+The Commandant's Shadow,7.3,1200,1.716666667,History
+Landesverräter,5.6,124,1.866666667,History
+Mysteries of the Terracotta Warriors,6.7,1700,1.283333333,History
+Color of Victory,6.1,40000,2.616666667,History
+From Darkness to Light,7.4,254,1.8,History
+Chhava,8.4,2300,0.85,History
+Bardejov,4.8,184,1.416666667,History
+Ae Watan Mere Watan,4.7,1400,2.216666667,History
+Bushido,6.9,531,2.15,History
+In Search of Darkness 1990-1994: A Journey Into Iconic '90s Horror,8,177,6.05,History
+Louise Violet,6.5,295,1.8,History
+Yatra 2,6.2,9700,2.2,History
+Madame Durocher,6.6,43,1.816666667,History
+Silver Star,7.4,19,1.7,History
+Bröderna Andersson,7.2,141,1.4,History
+Red Poppies,4.7,355,2.033333333,History
+A Country Called Ghana,6.4,37,1.45,History
+Blur: To the End,7.2,795,1.733333333,History
+Drop Dead City,8.2,41,1.8,History
+Simona Kossak,6,417,1.666666667,History
+Ernest Cole: Lost and Found,7.3,440,1.75,History
+House of Ga'a,4,492,1.983333333,History
+This Is the Goat!,5.4,382,1.666666667,History
+An American Bombing: The Road to April 19th,6.8,948,1.783333333,History
+The Embers,6.3,109,2.7,History
+Boat,5.4,1000,2.1,History
+John Brown the Advocate,8.9,14,1.1,History
+Kupu-Kupu Kertas,6.5,231,1.883333333,History
+Drava se ne predaje,7.1,17,1.266666667,History
+Zeitgeist: Requiem,7.9,33,1.5,History
+Die Ermittlung: Oratorium in 11 Gesängen,7.6,180,4.016666667,History
+America's Burning,6,127,1.383333333,History
+Ennio Doris - C'è anche domani,4.6,110,1.5,History
+Kasoombo,8.3,640,2.6,History
+Mi Ilustrísimo Amigo,9.8,6,1.333333333,History
+Housewife of the Year,7.4,84,1.35,History
+Sadik Ahmet,7.6,446,2.083333333,History
+Patrice: The Movie,8.2,243,1.7,History
+Blood'less' Revolution,6.7,327,1.716666667,History
+Janis Ian: Breaking Silence,7.8,166,1.9,History
+"True Chronicles of the Blida Joinville Psychiatric Hospital in the Last Century, when Dr Frantz Fanon Was Head of the Fifth Ward between 1953 and 1956",6.7,51,1.5,History
+Memoir Seorang Guru,7.1,138,2,History
+The Shadow,6.4,288,1.5,History
+Drama 1882,9.1,22,0.75,History
+Obraz,7.4,28,1.583333333,History
+Tears of Blood,9.7,8,1.466666667,History
+Ecce Homo Brâncoveanu,6.9,166,1.533333333,History
+Hope of Escape,7.8,47,1.516666667,History
+The Fall of 2008,5.8,12,1.016666667,History
+Gadera,5.1,51,1.8,History
+Lafran,8.4,20,1.65,History
+Taghiev: Oil,9.2,94,2,History
+Guadalupe: Mother of Humanity,6.9,43,1.7,History
+Giannis in the Cities,6.9,28,1.5,History
+Yakamoz,6.7,20,1.6,History
+Cinta Dari Timor,5.3,24,1.366666667,History
+"Carville: Winning Is Everything, Stupid",7.2,283,1.633333333,History
+Le choix du pianiste,6.2,16,1.766666667,History
+Burgemeestersmoord,6.5,89,1.9,History
+Meet the Roman Emperor with Mary Beard,7.7,52,0.983333333,History
+Los indomables,6.5,9,1.766666667,History
+Sinhabahu,6.4,99,1.866666667,History
+Village of Death: Oradour-sur-Glane 1944,7.8,17,0.966666667,History
+Solos en la noche,4.8,107,1.466666667,History
+Bach - Ein Weihnachtswunder,6.2,173,1.483333333,History
+Sragaal,8.5,21,2.333333333,History
+All or Nothin',7.8,33,1.583333333,History
+Myall Creek Day of Justice,6.4,17,1.3,History
+Ainda Somos os Mesmos,5.9,48,1.5,History
+Last Flamingo of the Red Summer Sunset,8.8,14,1.333333333,History
+Zhi Ci Qing Lv,6.6,51,1.483333333,History
+Aquarius,6.4,26,1.25,History
+Ett hjärta är alltid rött,7.1,406,1.716666667,History
+Ray of Hope,7.5,13,1.75,History
+Lulu in Turin,8.5,6,1.266666667,History
+The Haka Party Incident,7.1,15,1.5,History
+Paul Anka: His Way,7.3,12,1.666666667,History
+Onihei Hankacho: Ketto,6.3,17,1.85,History
+I am Al Ittihad,5,232,1.5,History
+Bloodspawn,6.6,14,1.266666667,History
+The Birth of Korea,4.9,131,1.683333333,History
+North Korea: Dark Secrets,5.8,84,1.316666667,History
+"Colón ADN, su verdadero origen",6.4,54,1.766666667,History
+"À l'école de l'universel: Germaine Le Goff, l'histoire d'une pionnière",6.8,6,0.883333333,History
+Powstaniec 1863,5.3,149,1.916666667,History
+Pol Pot Dancing,7.1,14,1.7,History
+Triumf,7.3,9,1.883333333,History
+The Words Women Spoke One Day,7.4,7,1.4,History
+Vremya vernutsya,6.8,22,1.666666667,History
+Die Mutigen 56 - Deutschlands längster Streik,6.5,11,1.5,History
+Azerbaijan Atabeyler,7.9,8,1.666666667,History
+"Gaza, since October 7",4.6,7,1.566666667,History
+"Zeme, kas dzied",6.4,92,2.5,History
+Who Killed Lawrence of Arabia?,6.5,32,1.666666667,History
+Churchill's Forgotten War,7.5,16,0.783333333,History
+And the Balls Roll On...: The Real Story of the Beautiful Game of Skee-Ball,9,6,1.55,History
+Nebesko,5.1,11,1.216666667,History
+C'era una volta il Derby Club,7.4,17,1.5,History
+Fast Track: Taking on the Speedway,9.4,9,0.583333333,History
+Iyunskaya polyn,8.7,7,1.316666667,History
+Krigsvarsleren,7.8,8,0.916666667,History
+The Canal Map of Britain,6.8,10,0.983333333,History
+Ek Chilte Jol,9.2,13,1.983333333,History
+On Moral Grounds,8.4,7,1.233333333,History
+Xun zhao tang de zhang,7.8,16,1.55,History
+The Man Outside,7.6,12,1.166666667,History
+"Georges Pompidou, la cruauté du pouvoir",6.5,7,1.733333333,History
+Alien: Romulus,7.1,261000,1.983333333,Horror
+Nosferatu,7.2,227000,2.2,Horror
+The Substance,7.2,332000,2.35,Horror
+Heretic,7,181000,1.85,Horror
+Longlegs,6.6,200000,1.683333333,Horror
+Witchboard,5.7,362,1.866666667,Horror
+Beetlejuice Beetlejuice,6.6,159000,1.75,Horror
+Speak No Evil,6.8,117000,1.833333333,Horror
+Smile 2,6.7,121000,2.116666667,Horror
+Trap,5.8,149000,1.75,Horror
+Presence,6.1,34000,1.4,Horror
+The A-Frame,6.1,69,1.366666667,Horror
+Went Up the Hill,6.4,178,1.666666667,Horror
+Oddity,6.7,49000,1.633333333,Horror
+MaXXXine,6.2,77000,1.716666667,Horror
+Terrifier 3,6.3,54000,2.083333333,Horror
+Kinds of Kindness,6.5,63000,2.733333333,Horror
+A Quiet Place: Day One,6.3,159000,1.65,Horror
+Animale,5.9,385,1.633333333,Horror
+Jimmy and Stiggs,6.1,218,1.316666667,Horror
+The Watchers,5.7,60000,1.7,Horror
+Strange Harvest,6.6,401,1.566666667,Horror
+Immaculate,5.8,56000,1.483333333,Horror
+Get Away,5.3,8800,1.433333333,Horror
+Apartment 7A,5.9,18000,1.783333333,Horror
+Salem's Lot,5.6,37000,1.9,Horror
+Shelby Oaks,5.4,353,1.65,Horror
+Don't Move,5.8,42000,1.533333333,Horror
+Night Swim,4.7,29000,1.633333333,Horror
+Y2K,4.8,17000,1.516666667,Horror
+Cuckoo,5.7,30000,1.7,Horror
+The Rule of Jenny Pen,6.2,7600,1.733333333,Horror
+Monster Island,5.2,1200,1.383333333,Horror
+The Deliverance,5.1,24000,1.866666667,Horror
+Traumatika,5.9,74,1.45,Horror
+The First Omen,6.5,67000,1.983333333,Horror
+The Shrouds,5.8,5600,2,Horror
+The Master and Margarita,7.1,5400,2.6,Horror
+Nightbitch,5.5,22000,1.65,Horror
+Tarot,4.8,34000,1.533333333,Horror
+Munjya,6.3,27000,2.05,Horror
+The Strangers: Chapter 1,4.6,24000,1.516666667,Horror
+Exhuma,6.9,25000,2.233333333,Horror
+MadS,6.4,9600,1.483333333,Horror
+In a Violent Nature,5.6,28000,1.566666667,Horror
+A Sacrifice,5,6000,1.566666667,Horror
+Time Cut,5,21000,1.516666667,Horror
+Never Let Go,5.4,17000,1.683333333,Horror
+Queen of Bones,4.7,368,1.5,Horror
+Lisa Frankenstein,6.1,29000,1.683333333,Horror
+The Platform 2,4.9,42000,1.65,Horror
+Stree 2: Sarkate Ka Aatank,6.9,44000,2.45,Horror
+Rumours,4.9,5500,1.733333333,Horror
+The Beast Within,4.2,5600,1.616666667,Horror
+Noise,6.1,200,1.55,Horror
+Bramayugam,7.8,15000,2.316666667,Horror
+Cellar Door,5.2,5100,1.616666667,Horror
+Ick,5.8,376,1.55,Horror
+Dirty Boy,7.6,49,1.633333333,Horror
+Push,4.7,702,1.483333333,Horror
+Frewaka,6.1,2000,1.716666667,Horror
+The Balconettes,5.8,1700,1.733333333,Horror
+Bagman,4.7,6900,1.55,Horror
+I Don't Understand You,5.3,1100,1.616666667,Horror
+Succubus,4.6,1500,1.716666667,Horror
+Lembayung,6,804,2.05,Horror
+The Exorcism,4.2,12000,1.583333333,Horror
+The House on Laura Anne Dr.,5,969,1.25,Horror
+Year 10,5.4,2100,1.6,Horror
+Compulsion,6.2,44,1.43,Horror
+Sting,5.7,18000,1.516666667,Horror
+Dead Mail,6,2500,1.766666667,Horror
+Afraid,5.2,15000,1.4,Horror
+Die Alone,5.8,4200,1.5,Horror
+Saint Clare,4.5,691,1.533333333,Horror
+Humane,5.5,7800,1.55,Horror
+Lowlifes,6.2,7000,1.5,Horror
+The Ruse,7.2,562,1.75,Horror
+The Soul Eater,5.8,3200,1.8,Horror
+The Inheritance,4.7,3200,1.416666667,Horror
+Imaginary,4.7,18000,1.733333333,Horror
+Spin the Bottle,3.5,1100,2.066666667,Horror
+Winnie-the-Pooh: Blood and Honey 2,4.6,12000,1.55,Horror
+Things Will Be Different,5.2,3000,1.7,Horror
+V/H/S/Beyond,5.8,10000,1.9,Horror
+Black,7.1,3000,1.916666667,Horror
+Grave Torture,6.2,3200,1.95,Horror
+Daddy's Head,5.6,5700,1.533333333,Horror
+Your Monster,6.4,6800,1.716666667,Horror
+Outbreak,4.4,1400,1.466666667,Horror
+House of Sayuri,6.3,419,1.8,Horror
+Chime,6.4,2900,0.75,Horror
+We Bury the Dead,6.3,153,1.566666667,Horror
+The Radleys,5,3200,1.916666667,Horror
+Ghost Train,5.1,85,1.566666667,Horror
+The Wailing,6.1,1900,1.783333333,Horror
+Sumala,5.8,1300,1.866666667,Horror
+The Last Breath,4.7,2700,1.6,Horror
+Vina: Before 7 Days,5.4,665,1.666666667,Horror
+Consumed,3.7,715,1.483333333,Horror
+The North Witch,4.3,143,1.333333333,Horror
+Dead Talents Society,7,2900,1.85,Horror
+The Vampire Next Door,4.7,843,1.833333333,Horror
+Hold Your Breath,5.3,9200,1.566666667,Horror
+Scurry,7.6,28,1.5,Horror
+Stream,5.9,9600,2.05,Horror
+The Twin,7.4,113,1.716666667,Horror
+Shell,6.7,85,1.666666667,Horror
+Grafted,5.6,2800,1.6,Horror
+Devon,2.7,407,1.2,Horror
+Bhool Bhulaiyaa 3,4.6,78000,2.633333333,Horror
+Peripheral,7.8,58,1.466666667,Horror
+The Corpse Washer,6.1,1400,1.783333333,Horror
+Devils Stay,4.8,386,1.583333333,Horror
+Blackwater Lane,4.6,2500,1.8,Horror
+Beezel,4.9,1700,1.35,Horror
+Milk & Serial,6.6,2800,1.033333333,Horror
+Test Screening,6.8,72,1.533333333,Horror
+Room Service,3.9,337,0.783333333,Horror
+Pedro Páramo,6.3,3200,2.166666667,Horror
+Else,5.4,579,1.7,Horror
+Ba,5.8,141,1.316666667,Horror
+The Front Room,4.6,6000,1.566666667,Horror
+Outside,5.1,4900,2.366666667,Horror
+Handling the Undead,5.3,4700,1.616666667,Horror
+The Matriarch,8.1,208,1.366666667,Horror
+Kryptic,4,683,1.7,Horror
+#MissingCouple,5.3,828,1.55,Horror
+The Dead Thing,4.7,1100,1.566666667,Horror
+Pater Noster and the Mission of Light,7.1,152,1.6,Horror
+The Witch: Revenge,5.3,906,1.666666667,Horror
+Fear Cabin: The Last Weekend of Summer,3.6,34,1.283333333,Horror
+Jhamkudi,6.6,1000,2.516666667,Horror
+Desert Fiends,4.7,957,1.766666667,Horror
+House of Spoils,5,4100,1.683333333,Horror
+A Desert,5.6,663,1.716666667,Horror
+The Severed Sun,4.9,449,1.333333333,Horror
+The Mouse Trap,2.4,3700,1.333333333,Horror
+Believer,4.6,472,1.8,Horror
+You Can't Run Forever,4.5,4500,1.7,Horror
+Parvulos,6.6,434,1.983333333,Horror
+Death's Sonata,8.4,562,1.716666667,Horror
+Little Bites,4.7,1400,1.75,Horror
+Missing Child Videotape,5.5,272,1.733333333,Horror
+Heresy,6.8,336,1.016666667,Horror
+The Hunted,5.1,435,1.566666667,Horror
+Love Me Dead,6.6,45,1.45,Horror
+Up the Catalogue,8.2,13,1.2,Horror
+Pechi,5.5,1600,1.833333333,Horror
+Mr. Crocket,5.4,5000,1.466666667,Horror
+Strange Frequencies: Taiwan Killer Hospital,7.2,76,1.516666667,Horror
+Barda,4.6,756,1.65,Horror
+Munkar,5.2,581,1.45,Horror
+The Gesuidouz,6.7,100,1.55,Horror
+Desert Road,6.8,169,1.5,Horror
+Krazy House,4.8,1600,1.483333333,Horror
+A Wedding Story,6.4,3400,1.833333333,Horror
+1978,5,928,1.333333333,Horror
+The McKinney Family Home Videos,4.9,43,1.133333333,Horror
+The Painted,4.9,1200,1.416666667,Horror
+Swap,2.7,444,1.433333333,Horror
+The Demon Disorder,4.8,1400,1.433333333,Horror
+Carved,4.4,2900,1.583333333,Horror
+Killer Body Count,4.7,702,1.816666667,Horror
+Chain Reactions,7.2,129,1.716666667,Horror
+Shaitaan,6.5,55000,2.2,Horror
+Pacific Fear,3.6,342,1.416666667,Horror
+Out Come the Wolves,4.7,1800,1.433333333,Horror
+The Blackwell Ghost 8,6.1,431,1.15,Horror
+Bloodline Killer,4.3,5400,1.75,Horror
+Stupid Games,4.2,452,1.433333333,Horror
+The Ghost,6.3,133,1.533333333,Horror
+Horror in the High Desert 3: Firewatch,5.4,793,1.466666667,Horror
+Thayyal Machine,9.6,1000,1.516666667,Horror
+Hauntology,3.7,385,1.716666667,Horror
+Street Trash,4.5,1000,1.416666667,Horror
+The Haunted Apartment: Miss K,5.6,542,1.716666667,Horror
+Scared Shitless,6.1,228,1.266666667,Horror
+In the Name of God,5.1,165,1.483333333,Horror
+Siccin 7,4,1100,1.566666667,Horror
+Old Wounds,7.4,17,1.816666667,Horror
+Black Cab,4.1,1900,1.466666667,Horror
+Conjuring the Cult,4.2,966,1.55,Horror
+Tantra,4.9,2400,2.266666667,Horror
+Here After,4.2,1900,1.55,Horror
+Behave,2.7,237,1.466666667,Horror
+Cursed,4.2,149,1.35,Horror
+Bystanders,4,435,1.366666667,Horror
+La Patasola,2.7,119,1.35,Horror
+La damnée,4.2,122,1.333333333,Horror
+Aranmanai 4,5,2400,2.466666667,Horror
+Model House,4,1100,1.416666667,Horror
+Mutants of Nature Cove,3.6,169,1.466666667,Horror
+Dominion of Darkness,5.6,884,1.6,Horror
+I'll Play Mother,4.7,117,1.8,Horror
+The Train of Death,4.7,750,1.716666667,Horror
+Sorop,5.4,271,1.716666667,Horror
+Turno Nocturno,5.2,766,1.783333333,Horror
+Sala Escura,4.5,32,1.583333333,Horror
+Monster Mash,3.5,472,1.416666667,Horror
+Séance Games: Metaxu,3.2,256,1.433333333,Horror
+The Lost Daughter,5.6,348,1.65,Horror
+Freelance,4.8,400,1.833333333,Horror
+Bogieville,3.9,678,1.8,Horror
+Another Cabin in the Woods Movie,4.7,246,1.283333333,Horror
+Life of Belle,5,736,1.216666667,Horror
+Phallacies,8.7,8,1.683333333,Horror
+Invader,4.6,176,1.166666667,Horror
+Iconic,4.9,471,1.5,Horror
+Possession: Kerasukan,3.5,313,1.566666667,Horror
+Sakaratul Maut,5.4,197,1.783333333,Horror
+The Forbidden Camp: Mass Possession,6.1,396,1.866666667,Horror
+Down Below,2.6,221,1.55,Horror
+Drained,4.5,339,1.783333333,Horror
+Clickbait: Unfollowed,4.9,622,1.5,Horror
+Slay,6.5,1300,1.65,Horror
+Riders,6.3,536,1.75,Horror
+Protein,6.8,87,1.666666667,Horror
+Territory,4.7,96,1.55,Horror
+Buzz House: The Movie,3.2,1400,1.55,Horror
+Suckers,2.3,134,1.116666667,Horror
+Last Stop: Rocafort St.,4.1,526,1.483333333,Horror
+Dagr,4.2,2800,1.283333333,Horror
+Crackcoon,3.6,479,1.466666667,Horror
+The Curse of the Necklace,4.5,1500,1.65,Horror
+Broken Bird,5.8,130,1.65,Horror
+Amp House Massacre,3.8,201,1.333333333,Horror
+Black Spines,6.9,25,1.666666667,Horror
+Cinderella's Revenge,3.7,1200,1.416666667,Horror
+Name the Demon,3.5,182,1.283333333,Horror
+Bhavanam: The Haunted House,6.5,19,2.316666667,Horror
+The Seductress from Hell,6.1,23,1.7,Horror
+Xoftex,6,66,1.65,Horror
+Pinnil Oral,7.4,433,2.116666667,Horror
+Do Not Enter,5.3,701,1.416666667,Horror
+We Are Wolves,3.4,285,1.616666667,Horror
+Cinderella's Curse,3.4,1400,1.366666667,Horror
+Murder Mubarak,5.8,51000,2.333333333,Horror
+X Files,2.5,77,1.233333333,Horror
+The Little Mermaid,3.5,226,1.483333333,Horror
+Frankie Freako,5.5,1400,1.416666667,Horror
+Gacy: Serial Killer Next Door,3.3,494,1.616666667,Horror
+Heretics,2.7,131,1.383333333,Horror
+Rippy,4.2,1000,1.383333333,Horror
+Crescent City,3.9,1500,1.716666667,Horror
+Sunrise,3.9,1300,1.55,Horror
+Hell Hole,4.5,1400,1.533333333,Horror
+Bloody Axe Wound,5,1100,1.383333333,Horror
+Bleeding,4.2,397,1.616666667,Horror
+The Monster Beneath Us,5.1,507,1.716666667,Horror
+Kalinga,6.6,9600,1.933333333,Horror
+DarkGame,4.6,3000,1.666666667,Horror
+Monster on a Plane,5,2700,1.466666667,Horror
+The Killgrin,5.9,99,1.383333333,Horror
+Invasive,5.6,827,1.616666667,Horror
+Campton Manor,3.4,263,1.383333333,Horror
+Saint Catherine,3.4,283,1.433333333,Horror
+Demonte Colony 2,6.5,4700,2.4,Horror
+Haunt Season,4.9,959,1.35,Horror
+The Bunker,4.3,378,1.533333333,Horror
+Dancing Village: The Curse Begins,5.7,4300,2.033333333,Horror
+The Banished,5,57,1.616666667,Horror
+Espantaho,4.8,274,1.5,Horror
+Paranoia,4.1,416,1.583333333,Horror
+Estela,6,42,1.483333333,Horror
+Indera,5.8,20,1.733333333,Horror
+The Moogai,5.4,478,1.433333333,Horror
+Butchers Book Two: Raghorn,4.1,691,1.466666667,Horror
+Hide N Seek,8.8,2300,2.233333333,Horror
+#AMFAD: All My Friends Are Dead,4.5,1300,1.516666667,Horror
+Sattam En Kaiyil,7.9,2300,2.066666667,Horror
+Amityville: Where the Echo Lives,1.5,469,1.483333333,Horror
+Kakuda,5.3,6400,1.933333333,Horror
+Kang Mak,6.4,934,2.033333333,Horror
+404 Run Run,5.7,532,1.733333333,Horror
+Goldilocks and the Three Bears: Death and Porridge,2.2,2200,1.366666667,Horror
+Curse of the Seven Oceans,5.5,553,1.566666667,Horror
+Seeds,4.9,251,1.366666667,Horror
+Happy Birthday Luci,9.4,61,1.65,Horror
+Wake,3.4,291,1.416666667,Horror
+Poison Sangga: The Homewrecker's Curse,6.8,413,1.966666667,Horror
+Destroy All Neighbors,5.3,2100,1.416666667,Horror
+The Stalking,3.6,55,1.2,Horror
+Seven Cemeteries,4.6,680,1.4,Horror
+A Fisherman's Tale,5.7,178,1.716666667,Horror
+The Containment,4.8,85,1.366666667,Horror
+Vincent,6,420,1.533333333,Horror
+Retreat,7,26,1.55,Horror
+Bad Fish,3.4,357,1.4,Horror
+Tenants,4.3,140,1.566666667,Horror
+Birthright,5.3,262,1.333333333,Horror
+Do You See What I See,5.4,724,1.816666667,Horror
+The Woods,3.7,93,1.266666667,Horror
+Flesh of the Unforgiven,8.1,60,1.466666667,Horror
+The Cursed,4.1,120,1.616666667,Horror
+Cocaine Werewolf,2.4,316,1.333333333,Horror
+Cora,4.5,962,1.733333333,Horror
+Delicate Arch,5,74,1.416666667,Horror
+Cellphone,3,763,1.466666667,Horror
+The Cellar,5.4,193,1.416666667,Horror
+Guardian,4,680,2,Horror
+From Darkness,4.9,608,1.583333333,Horror
+Cara,5.8,87,1.6,Horror
+Wanita Ahli Neraka,4.9,329,1.583333333,Horror
+Don't Open the Door,6.6,8400,1.45,Horror
+My Boo,6.1,755,2.083333333,Horror
+Naalkane Aayama,7.3,2800,1.8,Horror
+A Very Special Terrifier Christmas,5.3,42,1.166666667,Horror
+Thaghut,5.8,349,1.7,Horror
+Ghost Game,3.4,398,1.433333333,Horror
+Winter Island,4.6,192,1.7,Horror
+Don't Make a Sound,3.5,50,1.333333333,Horror
+Nudus,6.5,53,1.566666667,Horror
+Festival of the Living Dead,4.3,686,1.466666667,Horror
+What Lurks Beneath,4.2,819,1.7,Horror
+Kuyang,5.2,518,1.616666667,Horror
+Kromoleo,3.9,280,1.333333333,Horror
+Nokturno,3.7,234,1.65,Horror
+Butchers Book Three: Bonesaw,4.9,145,1.783333333,Horror
+Daft State,6,53,1.23,Horror
+Skeletons in the Closet,3,580,1.533333333,Horror
+The Legend of Lake Hollow,3.7,569,1.466666667,Horror
+Camp Pleasant Lake,3.3,2400,1.5,Horror
+Horny Teenagers Must Die!,3.2,252,1.4,Horror
+The American Backyard,6,287,1.783333333,Horror
+Cadi,6.3,4400,2.233333333,Horror
+Possessions,3.8,896,1.483333333,Horror
+Tsunami Sharks,2.7,112,1.166666667,Horror
+Death Streamer,3,244,1.2,Horror
+For Sale,4.9,684,1.916666667,Horror
+Salve Maria,6.4,548,1.85,Horror
+The Beldham,7,49,1.416666667,Horror
+Guna guna istri muda,5.2,212,1.633333333,Horror
+The Jack in the Box Rises,4.1,857,1.533333333,Horror
+Meathook,5.7,17,1.7,Horror
+Do Not Open,2.6,292,1.516666667,Horror
+Wineville,4.3,308,1.666666667,Horror
+The Devil's Disciples,8,51,1.366666667,Horror
+Last Night at Terrace Lanes,4.4,665,1.25,Horror
+The Vigil,7.4,5,1.616666667,Horror
+Dr. Sander's Sleep Cure,6.5,1300,1.7,Horror
+Scared to Death,6.6,34,1.633333333,Horror
+Are You There?,6.1,82,1.466666667,Horror
+Mother Father Sister Brother Frank,5.8,323,1.416666667,Horror
+The Only Ones,7.1,31,1.283333333,Horror
+I Heart Willie,5.9,124,1.466666667,Horror
+Haze,6.4,54,1.266666667,Horror
+Alyad Palyad,6.9,1200,2.15,Horror
+The Killers,6.1,80,1.983333333,Horror
+Granny,7.3,9,0.666666667,Horror
+Air Fryer Slaughter,6.1,591,1.5,Horror
+Solvent,7.2,461,1.566666667,Horror
+Nearing Death,5.7,390,1.6,Horror
+Yagna,7.1,2200,2.183333333,Horror
+The Ritual,3.6,33,1.666666667,Horror
+The Sin,5.3,365,1.716666667,Horror
+Replicator,3.8,188,1.25,Horror
+Geethanjali Malli Vachindi,4.8,2200,2.4,Horror
+The Bad Nun 3,3.2,281,1.2,Horror
+Bhootpori,5.7,217,1.833333333,Horror
+Family,6.8,33,1.583333333,Horror
+Haunted Universities 3,5.4,331,1.983333333,Horror
+Dead Name,9,12,1.4,Horror
+Pasar Setan,6.7,64,1.6,Horror
+Bring on the Damned!,4.9,59,1.9,Horror
+Soul Reaper,5.7,341,1.866666667,Horror
+The Hostage,4.8,15,1.45,Horror
+The Windigo,4.6,728,1.416666667,Horror
+Till Death Do Us Part,6.3,286,1.8,Horror
+Love Me If You Dare,4.4,488,2.133333333,Horror
+Aiden,2.1,140,1.233333333,Horror
+Lopaliki Ra Chepta,7.7,1500,1.866666667,Horror
+Invited,5.2,261,1.183333333,Horror
+Hu Die Da Shia,4.3,66,1.7,Horror
+The Family Business,8.8,31,1.483333333,Horror
+Chainsaws Were Singing,7.2,393,1.95,Horror
+Remnant,2.6,337,1.866666667,Horror
+Curse of the Sin Eater,4.9,831,1.5,Horror
+Custom,6.6,48,1.266666667,Horror
+Blood Debt,5.3,230,1.666666667,Horror
+Rita,5.7,308,1.783333333,Horror
+Mountain Shark,3.6,178,1.35,Horror
+In Our Blood,6.8,52,1.483333333,Horror
+Night Shoot,5.5,102,1.633333333,Horror
+Clown II,7.6,16,2.35,Horror
+Darah Nyai,7.4,7,1.5,Horror
+American Werewolf,1.6,126,1.116666667,Horror
+Virgo,4.8,113,1.45,Horror
+Where is My Head?,6.8,84,1.5,Horror
+Salem Witch Doll,2.3,152,1.266666667,Horror
+Temurun,4.6,367,1.433333333,Horror
+Dreams of flesh,5.7,14,1,Horror
+SinÉl,5.1,31,1.2,Horror
+You Shall Not Sleep Tonight,4,406,1.283333333,Horror
+They Turned Us Into Killers,2.7,271,1.433333333,Horror
+Spring Garden,4.5,221,1.5,Horror
+House of Ashes,6.5,46,1.583333333,Horror
+The Redemption of Sin,5.7,253,1.933333333,Horror
+Slashercise,4.9,16,0.966666667,Horror
+Perewangan,5.4,188,1.816666667,Horror
+Nyctophobia,6.7,1800,1.5,Horror
+Deadly Culture: Final Mutation,2.7,59,1.15,Horror
+Malice,2.8,49,1.566666667,Horror
+Whisper of the Witch,3.9,347,1.583333333,Horror
+A Stranger in the Woods,4.8,713,1.383333333,Horror
+Betting with Ghost,6.5,101,1.866666667,Horror
+History of Evil,3.4,836,1.633333333,Horror
+THEDÆMON,6.7,46,1.45,Horror
+Book of the Dead,5.3,81,1.5,Horror
+Shark Girl,2.6,194,1.366666667,Horror
+"Spider Baby, or The Maddest Story Ever Told",5,108,1.2,Horror
+"Hemet, or the Landlady Don't Drink Tea",4.3,102,1.483333333,Horror
+Killer Influence,2.6,333,1.4,Horror
+"Nanay, tatay",7,74,2,Horror
+Trinil,4.5,387,1.75,Horror
+Psychopomp,9,6,1.6,Horror
+Our Happy Place,9.3,37,1.5,Horror
+Father's Haunted House,5.9,371,1.55,Horror
+H. P. Lovecraft's the Old Ones,3.6,422,1.4,Horror
+Crust,6,255,1.7,Horror
+Pale Horse,3.7,82,1.45,Horror
+The Girl Who Wore Yellow Lace,5.1,38,1.366666667,Horror
+Staycation,7.3,122,1.566666667,Horror
+Bag of Lies,3.8,603,1.6,Horror
+Space Sharks,1.6,345,1.166666667,Horror
+Jugaremos en el bosque,4.9,107,1.5,Horror
+Hellhounds,3.4,186,1.35,Horror
+Una ballena,5.5,214,1.8,Horror
+Night Silence,5.5,300,1.866666667,Horror
+True Fear,4.6,328,1.533333333,Horror
+Burning Butterflies,7.6,101,1.716666667,Horror
+Effigy,2.8,268,1.3,Horror
+Watch If You Dare To,3.6,12,1.083333333,Horror
+Bloody Ishq,3,2200,2.3,Horror
+Within the Pines,6.4,21,1.216666667,Horror
+A Mother's Embrace,5.8,656,1.5,Horror
+Sengkolo: Malam satu suro,5.8,64,1.666666667,Horror
+Snakeeater,5.3,283,1.333333333,Horror
+Jinn Chapter 1,7.7,68,0.766666667,Horror
+Etheria Film Night 2024,7.2,12,1.866666667,Horror
+All Hallows' Eve: Inferno,4.3,144,1.233333333,Horror
+Wild Animal,8.4,14,0.316666667,Horror
+The Ceremony Is About to Begin,4.4,852,1.166666667,Horror
+The Last Nightmare Part One,6,82,0.833333333,Horror
+Shaman,5.2,73,1.666666667,Horror
+Park,6.9,381,1.95,Horror
+Darling,5.2,762,2.65,Horror
+Lampir,5.5,267,1.616666667,Horror
+Mystic Singer,4.9,254,1.6,Horror
+The Prodigy,4.6,39,1.383333333,Horror
+Mananambal,6.1,37,1.666666667,Horror
+Dosen Ghaib: It's Nighttime or You Already Know,4.1,325,1.566666667,Horror
+Scream 2,6.4,11,0.516666667,Horror
+Alpacalypse,5.8,36,1.283333333,Horror
+Sana: Let Me Hear,5.6,88,2.083333333,Horror
+Tide,3.5,138,1.366666667,Horror
+Ronggeng Kematian,5.3,163,1.633333333,Horror
+Ladybug,5.5,34,1.783333333,Horror
+Dead Whisper,3.8,571,1.466666667,Horror
+Akkada Varu Ikkada Unnaru,9.1,1000,1.716666667,Horror
+Séance,8.1,28,1.416666667,Horror
+Forgive Me Father,3.5,125,1.283333333,Horror
+Vampire Zombies... From Space!,6.8,121,1.633333333,Horror
+The Cursed Land,5.5,314,2.133333333,Horror
+Final Girl: Halloween,4.6,114,1.416666667,Horror
+9 Windows,3.6,333,1.366666667,Horror
+A Halloween Feast,4.7,845,1.716666667,Horror
+The Clock,3.5,46,1.333333333,Horror
+Deadbolt,4.6,337,1.383333333,Horror
+Thine Ears Shall Bleed,6.2,1200,1.7,Horror
+Members Club,4.6,187,1.5,Horror
+Z Zone,3.7,65,1.383333333,Horror
+Silent Bite,3.7,532,1.5,Horror
+Shark Exorcist 2: Unholy Waters,1.8,161,1.233333333,Horror
+Üç Harfliler: Nazar,4.8,198,1.566666667,Horror
+Easter Bloody Easter,3.3,325,1.716666667,Horror
+Spithood,5.4,1200,0.966666667,Horror
+Bloody Bridget,7,54,1.35,Horror
+A yard of jackals,7.4,46,1.8,Horror
+Guess Who,4.8,378,1.55,Horror
+The Notorious Finster,3.9,186,1.883333333,Horror
+The Spirit Hunter,4.1,35,1.7,Horror
+Manipula,8.5,34,1.566666667,Horror
+Snow Angel of Revenge,3.8,65,1.6,Horror
+Burning,7.9,15,1.683333333,Horror
+There's a Zombie Outside,5.7,74,1.25,Horror
+Director's Cut,7.4,103,1.5,Horror
+Kutukan Calon Arang,5.5,18,1.683333333,Horror
+The Girl Who Cried Her Eyes Out,3.5,779,1.566666667,Horror
+"Silent Night, Bloody Night 3: Descent",3.2,213,1.666666667,Horror
+Jurnal Risa by Risa Saraswati,4.4,321,1.533333333,Horror
+Amityville Bigfoot,3,157,1.466666667,Horror
+Jeffrey's Hell,4.8,104,1.333333333,Horror
+Massacre at Femur Creek,6.5,653,1.366666667,Horror
+People in the Walls,3.3,58,1.55,Horror
+Valari,7.9,2600,2.25,Horror
+Unnatural,3.7,146,1.716666667,Horror
+Salsa,5.7,300,1.666666667,Horror
+Terror Zone,3.3,11,1.466666667,Horror
+Good Neighbours,3,196,1.4,Horror
+The Buildout,4,109,1.166666667,Horror
+The Boys,4.6,144,2.183333333,Horror
+Dinosaur Hotel 3,2.7,165,1.233333333,Horror
+Biaz: Kara Iyenin Laneti,5.1,407,1.483333333,Horror
+Huntress,3,89,1.283333333,Horror
+Hunters on a White Field,4.9,471,1.666666667,Horror
+Scarytales and Deadtime Stories,5.2,19,1.116666667,Horror
+Itch!,6.8,8,1.366666667,Horror
+HMM Hug Me More,8.1,1100,1.7,Horror
+Purgatory Station,3.4,63,1.816666667,Horror
+Holnap meghalok,4.2,143,1.416666667,Horror
+The Deadly Swarm,2.5,207,1.35,Horror
+Amityville Turkey Day,3.1,367,1.566666667,Horror
+Migraine,8.2,25,1.083333333,Horror
+The Sisters,4.7,165,2.033333333,Horror
+Pee Nak 4,4.8,418,1.916666667,Horror
+Chateau,4,304,1.383333333,Horror
+The Woods Are Real,2.4,476,1.333333333,Horror
+Run!,3.4,107,1.433333333,Horror
+Obayifo Project,5.1,374,1.183333333,Horror
+This Man,5.1,24,1.483333333,Horror
+Quadrant,4.3,157,1.216666667,Horror
+Lost Angels,6,215,1.6,Horror
+Mandira,5.8,1000,2.016666667,Horror
+Feet of Death,3.9,246,1.766666667,Horror
+Bigfoot Exorcist,2.6,233,1.166666667,Horror
+He Sees You When You're Sleeping,4.2,157,1.383333333,Horror
+The Camp Host,4.3,304,1.583333333,Horror
+Catch a Killer,5.8,16,1.366666667,Horror
+El instinto,6.6,126,1.533333333,Horror
+Camp Terror,4.5,42,1.833333333,Horror
+Pigman,2.5,119,1.633333333,Horror
+The Girl in the Trunk,3.4,355,1.5,Horror
+Solitude,6,53,1.616666667,Horror
+This Never Happened,4.7,391,1.5,Horror
+Guys at Parties Like It,3.9,177,1.316666667,Horror
+Followers,3.6,261,1.233333333,Horror
+Dead Teenagers,3.2,159,1.333333333,Horror
+Killington,2.8,191,1.45,Horror
+Red Night at Skye's,6.9,16,1.366666667,Horror
+Dinner with Leatherface,7.3,44,1.766666667,Horror
+Vexanthrone,5.3,25,1.083333333,Horror
+Las Tias,4.8,272,1.45,Horror
+Mueng non mueng tai,2.3,14,1.65,Horror
+Dooba Dooba,6.8,17,1.266666667,Horror
+Blood Mountain Massacre,4.9,46,1.483333333,Horror
+Deadly Retreat,4.8,114,0.766666667,Horror
+Devil,4.5,1600,1.966666667,Horror
+Sun,8.3,38,1.25,Horror
+Anatema,4.2,227,1.516666667,Horror
+Crispy,3.3,100,1.266666667,Horror
+Apokrif,8.7,23,1.066666667,Horror
+Trizombie,7.3,63,1.366666667,Horror
+OMG: O Manchi Ghost,5.1,592,2.083333333,Horror
+Video Vision,5.8,20,1.3,Horror
+The Box,3.4,83,1.316666667,Horror
+Interlopers,5,85,1.766666667,Horror
+Water Horse,5.1,264,1.416666667,Horror
+Creep Encounters,4,139,1.2,Horror
+Spirit Whisker: The Revenant,5.3,65,1.816666667,Horror
+The Naughty List of Mr. Scrooge,4.5,216,1.5,Horror
+Mister Sleep,3.5,183,1.566666667,Horror
+What Happened to Suzy,6.3,96,1.566666667,Horror
+Isleen Pines,5.3,739,1.4,Horror
+Hüddam 4: Ahmer,4.6,40,1.433333333,Horror
+Tu Sangre,3.9,112,1.35,Horror
+A Game in the Woods,7,32,1.333333333,Horror
+The Carters,5.2,29,1.25,Horror
+Carnage for Christmas,4.5,354,1.15,Horror
+Bury Your Dead,5.4,84,2.133333333,Horror
+Echoes of Crystal Lake: A Friday the 13th Story,8.4,16,0.05,Horror
+Hunter of the Night,5.3,62,1.5,Horror
+Deadly Culture: Species X,2.9,62,1.183333333,Horror
+Halloween: The Hunt of Michael Myers,8.5,14,1.35,Horror
+.ask,6.9,94,1.483333333,Horror
+Salt Along the Tongue,7.7,10,1.883333333,Horror
+Bloody Trip: The Equinox Killer,4.8,85,1.333333333,Horror
+Sharkers,4.1,174,1.466666667,Horror
+Saka Perawan,5.1,57,1.516666667,Horror
+Rerouting,4.1,171,1.433333333,Horror
+Mona: Jinn-2,4.1,132,2.066666667,Horror
+No Voltees,5.5,232,1.566666667,Horror
+Mother Goose's ScaryTales,5.8,19,0.9,Horror
+The Last Podcast,7.4,7,1.633333333,Horror
+Head Like a Hole,6.2,33,1.55,Horror
+Dark Chronicles,3.8,9,1.25,Horror
+Trolled,4.2,28,1.333333333,Horror
+The Exorcism of Saint Patrick,3.6,178,1.5,Horror
+Apex Predators 2: The Spawning,3.2,33,1.166666667,Horror
+Kifn,7.2,732,1.666666667,Horror
+All We Wanted,3.5,73,1.716666667,Horror
+Ice Nine Kills Presents: Welcome to Horrorwood,8.3,36,1.266666667,Horror
+Lord of Wolves,2.8,145,1.45,Horror
+Visher,4.3,397,1.083333333,Horror
+Graveyard Shark,3.4,244,1.616666667,Horror
+The Vord,3.4,76,1.683333333,Horror
+Take Good Care,6.1,8,1.683333333,Horror
+Janji Darah,4.4,174,1.733333333,Horror
+The Book of the Witch,4.3,163,1.216666667,Horror
+200KG Vampire,4,62,1.55,Horror
+The Hunter's Anthology: The Demon Hunter,4.7,105,2.1,Horror
+All That Remains,5.9,27,1.166666667,Horror
+The Candy Store,4,93,1.433333333,Horror
+The Night of the Harvest,4.5,502,2.1,Horror
+Alone,7.8,15,1.466666667,Horror
+Agapouse ta louloudia perissotero,5.3,193,1.433333333,Horror
+Dwiju,4.6,17,1.416666667,Horror
+Ga la,4.2,28,1.616666667,Horror
+Jeonde Raho Bhoot Ji,5.2,145,1.866666667,Horror
+Murderfest,2.9,235,1.366666667,Horror
+Pagpag 24/7,4.3,65,2.166666667,Horror
+The Unsolved Love Hotel Murder Case Incident,7.4,7,1.166666667,Horror
+Maya,7,9,1.816666667,Horror
+Deviant,5.2,49,1.333333333,Horror
+Bangsal Isolasi,4.8,183,1.266666667,Horror
+Retratos del Apocalipsis,7.9,22,1.25,Horror
+Monster Awakens,5.6,846,1.233333333,Horror
+Byte,3.3,165,1.616666667,Horror
+The Alien Report,4.6,157,1.35,Horror
+Jonestown: The Final Reckoning,4.3,7,0.983333333,Horror
+Mulm,5.8,74,1.633333333,Horror
+I Heard You Buy Souls,2.7,52,1.466666667,Horror
+Silence of the Prey,3.8,303,1.616666667,Horror
+Swoon,6.1,28,1.383333333,Horror
+Agrinai,7.9,69,1.55,Horror
+The Mitchin Murders,5.2,87,1.3,Horror
+Watch Them Come Blood,7.7,8,1.366666667,Horror
+Shadows Side,2,144,1.5,Horror
+Scopophobia,5.3,92,1.666666667,Horror
+Trope,4.2,41,1.433333333,Horror
+"The Haunted, the Possessed and the Damned",2.6,65,1.85,Horror
+Pasahero,6.1,27,2,Horror
+Art of a Hit,4.2,223,1.55,Horror
+A Savior Red,5.1,272,1.45,Horror
+Don't Look Back... I Know Your Origins,3.7,116,1.733333333,Horror
+The Monsters Under Our Bed,5.8,12,2.116666667,Horror
+The Caller,6.8,14,1.333333333,Horror
+C202,4.9,2200,2.25,Horror
+Kabir Azabi: Insi ve Cinni,4,23,1.416666667,Horror
+Island of the Dolls 2,3,168,1.383333333,Horror
+Operation Laila,5.5,58,2.05,Horror
+Listen Carefully,3.3,150,1.35,Horror
+My Zombabe,5,94,1.75,Horror
+Anxiety,7.8,8,1.616666667,Horror
+The Last Ritual,7.7,10,1.666666667,Horror
+Tenement,4.6,133,1.466666667,Horror
+Liu mang qu mo shi,5.8,62,1.733333333,Horror
+Ma Da: The Drowning Spirit,4.4,221,1.5,Horror
+Haunted by Her Name,2.8,96,1.5,Horror
+Chuzalongo,6.8,6,1.583333333,Horror
+Bloody Mary,3.8,7,1.2,Horror
+Devil's Horns,4.6,128,1.35,Horror
+Oh My Ghost: The Finale,6.8,39,1.866666667,Horror
+Undying,6.5,15,0.433333333,Horror
+Granny Krampus,2.6,128,1.35,Horror
+Big Bad CGI Monsters,4.8,44,1,Horror
+You Shouldn't Have Let Me In,4.1,187,1.4,Horror
+Toxic Daughter,5.3,57,1.75,Horror
+Chasing Zombies: A George Romero Tribute,9,8,1.75,Horror
+The Summer We Died,5,440,1.216666667,Horror
+Curtains for Christmas,5.4,69,1.166666667,Horror
+Tragic Waste,7.9,96,1.283333333,Horror
+Slaughterhouse on the Hill,2.6,135,1.2,Horror
+Thookudurai,4.3,2300,2.083333333,Horror
+Cruel Summer III: Pray for Fall,4.3,20,1.816666667,Horror
+The Haunted Studio,3.6,202,1.5,Horror
+Alem-i Cin 5: Azap,4.1,15,1.266666667,Horror
+The Apocalypse Box,3.3,250,1.433333333,Horror
+Sea of Madness,6.9,32,1.55,Horror
+Witches' Well,2.5,86,1,Horror
+The Convent,3.9,24,1.333333333,Horror
+Dead Rock,3.7,7,1.183333333,Horror
+Demo_n,4.9,52,1.25,Horror
+Mother Maker Lover Taker,5.9,46,1.65,Horror
+Continente,5.1,100,1.916666667,Horror
+Himalaya,3.2,406,1.416666667,Horror
+Inverted,4,59,1.466666667,Horror
+Slave Dolls 2: Red Rooms,2.1,8,0.283333333,Horror
+Blood of the Werewolf's Claw,2.7,7,1.5,Horror
+Blood Magick,9.2,13,1.65,Horror
+Inherit the Witch,3.2,57,1.416666667,Horror
+Claws,5.8,8,1.6,Horror
+Chithini,5.9,553,2.516666667,Horror
+Project Dorothy,3.9,3200,1.333333333,Horror
+Insane Like Me?,4.4,60,1.433333333,Horror
+The Town Without Halloween,5.5,87,1.466666667,Horror
+Hell Squad 2: Fresh Meat,9.3,21,1.583333333,Horror
+Tahoe Joe 2: The Sierra Nevada Bigfoot Conspiracy,4.3,260,1.233333333,Horror
+Zim Zim Ala Kazim,3.6,115,1.666666667,Horror
+Mr. Sandman,6.3,32,0.783333333,Horror
+Cadet,6.9,61,2.1,Horror
+Don Dukun,7.1,61,1.633333333,Horror
+Stereoscope,4,131,1.516666667,Horror
+Left One Alive,3.8,30,1.483333333,Horror
+Happy Halloween,6.2,23,1.6,Horror
+Big Cats,2.9,156,1.55,Horror
+A Haunting in Council House,4.9,57,1.566666667,Horror
+The Despaired,6.5,37,2.166666667,Horror
+4:44 : Time of Fear,5.4,23,0.733333333,Horror
+Creepypasta: Deathnet,3.3,69,1.183333333,Horror
+Oru Kadha Sollattaa Sir,6.1,41,2.166666667,Horror
+Morena,5.4,131,1.766666667,Horror
+Bedtime Stories: Tales of Love and Hate,7.7,15,1.083333333,Horror
+The Bench,3.8,189,1.25,Horror
+Monkey's Magic Merry Go Round,7.4,12,1.516666667,Horror
+Secret Shadow,7.4,18,1.366666667,Horror
+Coven of the Black Cube,7.2,28,1.616666667,Horror
+Passages of Nexus,5.3,326,1.8,Horror
+Blood and Black,6.9,1100,1.466666667,Horror
+El tema del verano,7.2,25,1.516666667,Horror
+Amityville Backrooms,3.7,39,1.2,Horror
+Cold Blows the Wind,5.7,807,1.416666667,Horror
+Videotheque,5.2,108,1.866666667,Horror
+A Hell of a Difference,4.7,53,1.333333333,Horror
+Pesadilla,6.5,50,1.866666667,Horror
+O Clube das Mulheres de Negócios,4.7,115,1.583333333,Horror
+In the Belly of a Tiger,7.5,104,1.516666667,Horror
+Terrornet,3.7,96,1.466666667,Horror
+The Gatekeeper,5.5,20,1.616666667,Horror
+Cursed in Baja,6.7,34,1.333333333,Horror
+Devil Hunters,8.7,129,2,Horror
+Wolves Against the World,3.4,68,1.466666667,Horror
+A Cold Grave,3.5,280,1.25,Horror
+Death Ph.D,2,146,1.783333333,Horror
+Nûfer,2.8,16,1.633333333,Horror
+A Maldição de Romanova,5,22,1.333333333,Horror
+The Night Curse of Reatrei,4.4,121,1.583333333,Horror
+30 to 45,3.8,19,1.966666667,Horror
+Ripper Revealed,3.6,204,1.166666667,Horror
+Night Talkers,4,107,1.483333333,Horror
+Paku Tanah Jawa,4.2,125,1.666666667,Horror
+Nowhere Land,3.4,13,1.4,Horror
+Blood and Breakfast,5.8,32,1.4,Horror
+Kabandha,9.2,30,2.066666667,Horror
+Asgaar,9.2,43,2.3,Horror
+Killer Campout Part II,5.6,29,1.55,Horror
+Para Betina Pengikut Iblis: Part 2,4,132,1.5,Horror
+Blood Dried Hands,6.3,171,1.916666667,Horror
+Waruga: Kutukan Ilmu Hitam,6.3,34,1.416666667,Horror
+Dia de Finados,9.1,8,1.283333333,Horror
+Cruel: The Cross Village Encounter,4.5,48,0.95,Horror
+II,8.6,30,0.35,Horror
+A Most Atrocious Thing,3.8,265,1.25,Horror
+Night Games,5.6,290,1.65,Horror
+Fright,6.3,78,1.35,Horror
+Side Effects May Vary,7.2,43,1.35,Horror
+Jason in Indianapolis: A Friday the 13th Tribute,6.5,25,2,Horror
+Dosa Musyrik,6.6,16,1.533333333,Horror
+Quadrant: Noir Version,7.2,13,1.216666667,Horror
+Wind and Bone,5.8,18,1.55,Horror
+Jimmy,4.1,216,1.416666667,Horror
+I Saw Black Clouds,3.9,37,1.316666667,Horror
+Cold Blooded,4.2,18,1.3,Horror
+Influenza,4.3,34,1.633333333,Horror
+El Kafirun,6.6,20,1.166666667,Horror
+There Is a Monster,3.7,179,1.366666667,Horror
+Brain Tumor,3.8,52,1.266666667,Horror
+The Whisper in the Woods,5.4,42,1.183333333,Horror
+Idiot Girls and School Ghost: School Anniversary,7,67,1.5,Horror
+Death Web,5.4,87,1.066666667,Horror
+The World Drops Dead,8.4,7,1.183333333,Horror
+The Final Party,3.5,10,1.3,Horror
+Alien Legacy: Terror on Luxor Ridge,5.7,22,2.116666667,Horror
+Elf in the Hood,4.5,21,1.266666667,Horror
+Malee,3.4,15,1.416666667,Horror
+Murdaritaville,3.4,118,1.033333333,Horror
+A Gong,6,13,1.783333333,Horror
+Dead Fun,9,12,1.016666667,Horror
+Huggin Molly,5.9,88,0.9,Horror
+The John Perkins Tapes,4.6,15,1.283333333,Horror
+Earworm,2.4,221,1.683333333,Horror
+P2,4.5,10,1.75,Horror
+Black Theta,7.4,11,1.816666667,Horror
+FPS,4.3,20,1,Horror
+Possession Street,6.5,41,1.6,Horror
+Sinakagon,6.9,33,1.916666667,Horror
+The Awkward Stage,5.6,15,1.15,Horror
+Misteri Bilik Korek Api,5.6,10,1.216666667,Horror
+Hellvira's Haunted Asylum of Horror,5.8,38,1.966666667,Horror
+Talahib,5.4,21,1.383333333,Horror
+The Frontrooms,3.3,44,1.233333333,Horror
+Campfire Dead by Dawn,3,65,1.45,Horror
+The Unrighteous,5.1,35,1.45,Horror
+Slenderverse: The Rise and Fall of Slenderman,8.8,7,1.933333333,Horror
+Nosferatu: A Symphony of Horror - Audio Score by idiedtrying.,7.5,11,1.566666667,Horror
+105 Minutes,3.4,2300,2,Horror
+Boney Island Reality Show,4.2,23,1.45,Horror
+Easter Evil,1.5,153,1.2,Horror
+Histórias Estranhas 2,7.6,7,1.366666667,Horror
+Don't Break the Rules,2.7,57,1.616666667,Horror
+Wishes of the Blue Girl,4.3,382,1.216666667,Horror
+Behold the Claw,5.6,17,1.25,Horror
+Severance Mountain,5.3,17,1.233333333,Horror
+Lipstick on the Glass,4.1,13,1.933333333,Horror
+The Mermaid,7.8,36,1.75,Horror
+Voidcaller,6.6,43,1.416666667,Horror
+Siapa Buka Lampu?,7.3,7,1.533333333,Horror
+The Circle of Death,7.4,5,1.433333333,Horror
+Welcome Week: A College Horror Anthology,4,129,1.633333333,Horror
+In the Room Where He Waits,4.9,87,1.383333333,Horror
+Aranam,7.5,402,2.116666667,Horror
+Screamwalkers,3.8,56,1.033333333,Horror
+Day of the Clones,3.9,66,1.633333333,Horror
+Wrong Places,2.1,65,1.55,Horror
+La Hierba del Diablo,3.8,51,1.333333333,Horror
+Teddiscare,2,177,1.366666667,Horror
+Unknown Caller,7.3,35,1.05,Horror
+Dabba,5,22,1.25,Horror
+Ananya,8.8,888,2.266666667,Horror
+Cin Köyü,1,15,1.25,Horror
+Amityville Webcam,3.6,17,1.7,Horror
+Lizzie Lazarus,4.2,111,1.516666667,Horror
+Tie Die,3,8,1.333333333,Horror
+Town Mall 2,6.9,16,1.433333333,Horror
+Historias de Halloween,6.6,26,1.333333333,Horror
+Body & Soul,3.1,43,1.25,Horror
+Shadows of Bigfoot,4,146,1.216666667,Horror
+Finger Licking,4.7,18,1.483333333,Horror
+American Terror Tales 3,2.4,58,0.966666667,Horror
+Blackest Darkness,5.5,75,1.266666667,Horror
+Re:Human,5.7,39,1.8,Horror
+La cárcel Maldita,4.7,6,1.45,Horror
+Danyang Mahar Tukar Nyawa,5.9,10,1.833333333,Horror
+Akh,5.3,116,2.283333333,Horror
+Busted Babies,7.7,14,1.45,Horror
+The Geechee Witch: A Boo Hag Story,7.2,15,1.466666667,Horror
+The Seven Darks,4.2,125,1.05,Horror
+Bored Games,3.5,122,1.266666667,Horror
+La Chancla Del Diablo,4.4,13,1.5,Horror
+Clawface,8.6,14,1.633333333,Horror
+Hillock Haunting,3.4,245,1.383333333,Horror
+Time of the Witch,6.6,15,1.516666667,Horror
+Tóxico,6.7,18,1.466666667,Horror
+Choke,7.5,22,1.633333333,Horror
+Do You See Me?,3.9,8,1.466666667,Horror
+Mihrez 3: Cin Bebek,2.8,17,1.3,Horror
+Just Another Horror Movie,5.9,10,0.516666667,Horror
+Bad Ben 13: The Dracula Situation,3.5,12,1.65,Horror
+Trillberry Murders,5.6,13,1.9,Horror
+Sapien,2.4,79,1.733333333,Horror
+Scream: The Fan Favorite,8.1,19,0.816666667,Horror
+Death After Dusk,5.6,97,2.333333333,Horror
+Bernadette will töten,8.4,23,1.55,Horror
+The Bitter Taste,7.4,41,2.083333333,Horror
+Soul Traveler (The Feature),4.2,24,1.6,Horror
+Pulp Modern: Die Laughing,8.2,97,1.383333333,Horror
+Biswas Villa-An Unfinished Story,8.6,21,0.9,Horror
+Zir-i Cin 3: Cin Dügümü,3.9,22,1.433333333,Horror
+Live Different,2.7,10,0.8,Horror
+Bed of Nails,4.8,30,1.733333333,Horror
+Porcelain,3.8,118,1.466666667,Horror
+Symphony of Suffering,5.8,6,1.05,Horror
+10/31 Part 4,5.5,19,1.45,Horror
+Once Upon a Time in Amityville,3.7,57,1.216666667,Horror
+Kukushka,4.3,33,1.55,Horror
+Dead Body,3.7,41,2.25,Horror
+The House on Mansfield Street II: Evil Next Door,5,100,1.333333333,Horror
+Blodsuger,6.7,9,1.566666667,Horror
+Domovoy,4.3,301,1.7,Horror
+"Rapunzel, El Perro y El Brujo",7.6,22,1.816666667,Horror
+Padikkadha Pakkangal,4.3,167,1.766666667,Horror
+Grayson's Encounter,7.3,22,1.166666667,Horror
+A Very Flattened Christmas,6.1,37,1.583333333,Horror
+The Haunting of Lanquetot,3.7,10,1.6,Horror
+Quiet,5,8,1.183333333,Horror
+Anak Perjanjian Syaitan 2,6.4,34,1.483333333,Horror
+Adze the African Vampire,3.4,61,1.35,Horror
+Amir,5.4,20,1.166666667,Horror
+Compression,8,15,2.066666667,Horror
+Shi Ren Yu,2.5,9,1.183333333,Horror
+La sombra del tiburón,6.2,17,1.483333333,Horror
+First Person Savior,4.9,12,1.35,Horror
+Fierce Killer Marsupial,2.3,50,1.433333333,Horror
+Dead-End,8.2,6,0.766666667,Horror
+Midnight Perturbation,8.6,12,1.35,Horror
+Iron Nest of the Moon,7.6,13,1.166666667,Horror
+The Beast Hand,4.5,14,1.283333333,Horror
+The Clot,2.8,28,1.316666667,Horror
+Death,6.1,16,1.283333333,Horror
+Laberinto de sombras,6.1,9,1.833333333,Horror
+Lachrymose Primrose,6.3,41,1.616666667,Horror
+Tales of the Forgotten,5.2,9,2.833333333,Horror
+Touched by Eternity,5.3,105,1.583333333,Horror
+Jama,6,18,1.183333333,Horror
+Rambut Kafan,4.5,102,1.633333333,Horror
+Kísértés az erdö mélyén,2.8,78,1.3,Horror
+San Geng Ke Zhan,6.1,14,1.466666667,Horror
+New Folder,4.7,27,1.2,Horror
+The Damnation,6.7,23,1.366666667,Horror
+The Lonely Man with the Ghost Machine,3,161,1.5,Horror
+Tan-Ti-Ana,6,26,1.583333333,Horror
+Bisikan Setan,6.7,11,1.466666667,Horror
+Daemon Mind,4.7,34,1.683333333,Horror
+Shoroter Joba,4.4,24,2.05,Horror
+Portraits,4.8,48,1.366666667,Horror
+The E-Ghost,6.8,14,1.833333333,Horror
+Dead Boys Club,6.3,26,1.75,Horror
+Disremembered,4.9,144,1.733333333,Horror
+Baridegi: The abandoned Girl,3.4,18,1.783333333,Horror
+My Cannibal Crush,6.3,12,0.833333333,Horror
+Once Passed On,6.6,7,1.516666667,Horror
+The Killer Goldfish,6,6,1.566666667,Horror
+Evil in Me,4,6,1.25,Horror
+Bridge,3.7,13,1.3,Horror
+K. The Butcher Shitter,3.5,25,1.166666667,Horror
+Darkness Hunting,4.9,9,1.2,Horror
+Fara suflet,6.5,9,1.583333333,Horror
+Hannas 2,3,47,1.316666667,Horror
+The Director's Cut,4.2,15,1.366666667,Horror
+Problematic Intentions,4.6,15,1.5,Horror
+Condemned,8.9,12,1.2,Horror
+Unwelcome Home,8,9,1.25,Horror
+Bantay-bahay,5.5,17,1.433333333,Horror
+After Link,7.5,20,0.233333333,Horror
+Horror Able,6.5,24,1.3,Horror
+On the Trail of Bigfoot: The Ancients,6.2,7,2.333333333,Horror
+Conexão com o Mal,8.3,32,2.216666667,Horror
+The Wildman Massacre,8.6,37,1.5,Horror
+Spending Some Time Together,6.9,30,2.433333333,Horror
+Un día cualquiera,5.7,15,1.5,Horror
+Forbidden Tapes - Anthology of Terror,5.4,8,1.016666667,Horror
+El Juego 2: La Maldición del Bosque,6,35,1.616666667,Horror
+Kanbalhi,9,6,1.916666667,Horror
+Sobe: Sakalli Bebek,5,17,1.433333333,Horror
+Hantu Polong,7.4,46,1.5,Horror
+Mystery Writers,5.2,74,1.5,Horror
+O Procedimento,8.2,52,0.2,Horror
+The Dark Mother Special+20mn,7.6,21,2,Horror
+The Elite of Devils,3.6,44,1.8,Horror
+Winemaker,5.4,39,0.983333333,Horror
+Horror-Scopes: Volume Two,8.1,20,1.466666667,Horror
+MAKKA: Cinn-i Azap,4.3,13,1.25,Horror
+Horror Unmasked,3.3,23,1.27,Horror
+Mashaarojinn,9,20,1.65,Horror
+Killer Reel,5.2,10,1.216666667,Horror
+Demon Stalker,2.2,7,1.616666667,Horror
+New Tokyo Poltergeist,5.1,10,1.466666667,Horror
+Keo=peul-ji-ok,5.6,8,1.566666667,Horror
+Der Dritte Gast,3.3,43,1.216666667,Horror
+Abduction Chronicles,8.5,38,2.1,Horror
+Harruk,4.5,22,1.166666667,Horror
+Bannkorb,7.4,6,0.316666667,Horror
+Ahbar,3,15,1.333333333,Horror
+Welcome to Kittytown,7.7,8,1.466666667,Horror
+Demons vs. Ghosts,7.7,7,1.533333333,Horror
+I Curse This Land,4,94,1.433333333,Horror
+Verified,5.1,9,1.616666667,Horror
+Noclip,3.6,42,1.016666667,Horror
+Strangers,6.6,10,1.65,Horror
+Kurban: Budak Iblis,4.3,15,1.45,Horror
+The Tormented,5,17,1.416666667,Horror
+A Coffin of Stars,5.2,6,1.666666667,Horror
+Bungalow Section 12,2.4,64,1.466666667,Horror
+Neighborhood,5.8,5,1.4,Horror
+Bijt,5.8,55,1.75,Horror
+The Hellper,6.2,25,1.5,Horror
+Cheongsam Merah Darah,5.7,11,1.5,Horror
+Basileia,4.2,59,1.6,Horror
+Horrorathon Volume 3,5.1,14,1.55,Horror
+Malam Keramat,6,33,1.5,Horror
+Dead Talk Tales: Volume I,6.6,28,1.633333333,Horror
+Obscura,6.3,9,1.483333333,Horror
+Family Comes First,8.1,7,1.083333333,Horror
+Tragic,8.9,20,1.6,Horror
+Neath's Love Story 3,6.2,13,1.666666667,Horror
+The Burned Hand,8,12,1.416666667,Horror
+Tienes 24 horas,7.4,7,1.016666667,Horror
+Where the Mountain Women Sing,5.9,9,0.25,Horror
+Jyukinshi,3,11,1.716666667,Horror
+Shadows,6.8,21,1.25,Horror
+Átropos,5.5,24,1.55,Horror
+Stab 4: Knife of Doom,5.4,14,1.633333333,Horror
+Janus,4.9,11,1.2,Horror
+Prima del giorno dopo,7.8,75,1.75,Horror
+La Hacienda - El Regreso de los Malditos,7.6,15,1.166666667,Horror
+Gentleman Caller,8.5,9,1.716666667,Horror
+Killer Hand Dryer,7.8,10,1.966666667,Horror
+Slenderverse: Building the Slenderman,7.4,9,1.916666667,Horror
+Cieco sordo muto,7.1,9,1.416666667,Horror
+Don't Open the Box,7,9,0.75,Horror
+Velhan,6.4,18,1.283333333,Horror
+Requiem: Three Tales of Horror,3.6,38,0.916666667,Horror
+The Haunting in Rosemary Lane,3.5,29,0.983333333,Horror
+Rahha,2.7,13,2.25,Horror
+Abaasylaakh Khaus,7.2,7,1.166666667,Horror
+Slenderverse: An Artistic Movement,6.6,7,1.75,Horror
+Stalked by Shadows,3.6,10,1,Horror
+Peccatum,1.9,24,1.133333333,Horror
+Protanopia,7,14,1.25,Horror
+Ciudad Oculta,3.7,16,1.6,Horror
+A Melty Kiss Lost in the Abyss - Un Dolce Bacio Perduto nell'Abisso -,7.7,25,1.516666667,Horror
+The Smell of Blood,2.3,18,1.25,Horror
+Project Mutationem: The Second Collection,8.1,7,1.716666667,Horror
+Cintihar,2.6,10,1.283333333,Horror
